@@ -1,0 +1,50 @@
+{
+  "duration": 184.56,
+  "estimated_bpm": 73.83,
+  "double_time_bpm": 147.66,
+  "sections": [
+    {
+      "start": 0,
+      "end": 12.333,
+      "name": "전주",
+      "rms_dbfs": -23.0
+    },
+    {
+      "start": 12.333,
+      "end": 49.8,
+      "name": "청춘 회상",
+      "rms_dbfs": -16.5
+    },
+    {
+      "start": 49.8,
+      "end": 103.033,
+      "name": "현재의 무게",
+      "rms_dbfs": -14.8
+    },
+    {
+      "start": 103.033,
+      "end": 128.766,
+      "name": "버스와 들판 공개",
+      "rms_dbfs": -14.3
+    },
+    {
+      "start": 128.766,
+      "end": 155.233,
+      "name": "내려놓기",
+      "rms_dbfs": -17.6
+    },
+    {
+      "start": 155.233,
+      "end": 180.2,
+      "name": "현재로 돌아오기",
+      "rms_dbfs": -16.9
+    },
+    {
+      "start": 180.2,
+      "end": 184.56,
+      "name": "마지막 여운",
+      "rms_dbfs": -32.6
+    }
+  ],
+  "method": "linear PCM RMS, spectral positive flux autocorrelation; no perceptual listening or lyric forced alignment"
+}

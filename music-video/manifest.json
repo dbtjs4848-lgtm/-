@@ -1,0 +1,908 @@
+{
+  "title": "시간이 남는 정류장",
+  "song": "시간이 남아 있던 날",
+  "aspect": "16:9",
+  "duration": 184.56,
+  "audio_analyzed": true,
+  "reference": "/workspace/generated_images/exec-4e7d5a1a-704b-4a68-a39a-441137ddde90.png",
+  "style": "Original Korean urban fantasy music video, cinematic widescreen 16:9 single image. Match the attached approved reference's refined Korean webtoon ink drawing, natural human proportions, watercolor/gouache painted backgrounds and visible delicate matte paper grain, detailed but understated lighting. Muted indigo/teal blue city contrasted with honey amber and sage green. NOT photoreal, NOT 3D, NOT plastic anime, NO collage, NO panels, NO writing, NO captions or logos. Keep the same protagonist whenever present: Korean man about 29, slender, tousled short black hair, pale ivory rolled sleeve button shirt, charcoal trousers, one worn black canvas shoulder bag, worn or placed as each scene requires, tired gentle eyes. Same bus whenever present: weathered muted teal vintage Korean city bus, cream roof, rectangular amber windows, folding glass doors, subtle vines ONLY on magical bus. Normal adult office worker clothes throughout, no uniform, no tie. A younger memory self is the same person age 17 wearing simple cream T-shirt and dark trousers, NEVER a second unrelated adult. Visual continuity, emotionally restrained, quiet magical realism. ",
+  "shots": [
+    {
+      "cut": 1,
+      "start": 0,
+      "end": 3.1,
+      "title": "도시의 밤",
+      "lyric": "전주",
+      "description": "비 내린 서울 언덕 동네, 늦은 밤에도 불이 켜진 아파트. 빈 정류장은 화면 아래 작게.",
+      "motion": "고정 와이드. 빗물과 창문 빛만 미세하게 움직임.",
+      "start_image": "F001",
+      "end_image": "F001"
+    },
+    {
+      "cut": 2,
+      "start": 3.1,
+      "end": 6.2,
+      "title": "아직 비어 있는 자리",
+      "lyric": "전주",
+      "description": "정류장 빈 벤치와 빗방울. 누군가 쉬어 가도 되는 자리.",
+      "motion": "벤치 디테일 고정. 잔잔한 빗방울.",
+      "start_image": "F002",
+      "end_image": "F002"
+    },
+    {
+      "cut": 3,
+      "start": 6.2,
+      "end": 9.2,
+      "title": "퇴근하는 사람",
+      "lyric": "전주",
+      "description": "언덕길을 올라오는 주인공. 어깨에 가방의 무게가 실려 있다.",
+      "motion": "낮은 후면 롱숏. 시작과 종료는 같은 구도, 옷자락만 움직임.",
+      "start_image": "F003",
+      "end_image": "F003"
+    },
+    {
+      "cut": 4,
+      "start": 9.2,
+      "end": 12.333,
+      "title": "젖은 발걸음",
+      "lyric": "전주",
+      "description": "물웅덩이 앞에 멈춘 낡은 신발.",
+      "motion": "발 클로즈업 고정. 물결만 미세하게 움직임.",
+      "start_image": "F004",
+      "end_image": "F004"
+    },
+    {
+      "cut": 5,
+      "start": 12.333,
+      "end": 18.733,
+      "title": "빨라진 하루",
+      "lyric": "언제부터였을까 / 하루가 너무 빨라졌지",
+      "description": "횡단보도 앞 주인공은 선명하고, 지나가는 사람들은 푸른 잔상이다.",
+      "motion": "고정 미디엄. 군중은 타임랩스, 주인공은 정지.",
+      "start_image": "F005",
+      "end_image": "F005"
+    },
+    {
+      "cut": 6,
+      "start": 18.733,
+      "end": 23.9,
+      "title": "멈춘 시선",
+      "lyric": "시계는 그대로인데 / 내가 먼저 서두르게 됐어",
+      "description": "주인공이 손목시계를 내려다보다 고개를 든다.",
+      "motion": "손목과 얼굴이 함께 보이는 미디엄. 고개 드는 동작만 보간.",
+      "start_image": "F006",
+      "end_image": "F007"
+    },
+    {
+      "cut": 7,
+      "start": 23.9,
+      "end": 26.2,
+      "title": "길었던 밤",
+      "lyric": "한때는 밤이 길어서",
+      "description": "정류장 유리 너머 평범한 밤이 보인다. 유리에만 따뜻한 과거가 비친다.",
+      "motion": "유리 반사 고정. 색의 대비로 회상 진입.",
+      "start_image": "F008",
+      "end_image": "F008"
+    },
+    {
+      "cut": 8,
+      "start": 26.2,
+      "end": 28.466,
+      "title": "반사 속 여름",
+      "lyric": "한때는 밤이 길어서",
+      "description": "유리 한쪽에 여름 잎사귀와 낮은 노을이 반사된다.",
+      "motion": "유리 디테일. 앞뒤 초점을 천천히 이동.",
+      "start_image": "F009",
+      "end_image": "F009"
+    },
+    {
+      "cut": 9,
+      "start": 28.466,
+      "end": 33.433,
+      "title": "끝내지 않아도 되던 시간",
+      "lyric": "끝내지 않아도 됐고 / 버스 막차 시간쯤에",
+      "description": "학창 시절의 주인공과 친구가 버스 정류장 벤치에 앉아 있다.",
+      "motion": "회상 와이드. 여름 바람과 풀잎만 움직임.",
+      "start_image": "F010",
+      "end_image": "F010"
+    },
+    {
+      "cut": 10,
+      "start": 33.433,
+      "end": 37.933,
+      "title": "꿈을 말하던 우리",
+      "lyric": "꿈 얘길 해도 웃을 수 있었지",
+      "description": "어린 주인공이 친구와 눈을 맞추며 웃는다.",
+      "motion": "회상 투숏. 작은 웃음과 머리카락 움직임.",
+      "start_image": "F011",
+      "end_image": "F011"
+    },
+    {
+      "cut": 11,
+      "start": 37.933,
+      "end": 43.833,
+      "title": "빈 주머니의 자신감",
+      "lyric": "주머니엔 별거 없었는데 / 괜히 자신만만했고",
+      "description": "어린 주인공 손바닥의 동전 몇 개, 옆에는 구겨진 버스표.",
+      "motion": "손 디테일. 동전 빛이 짧게 반짝임.",
+      "start_image": "F012",
+      "end_image": "F012"
+    },
+    {
+      "cut": 12,
+      "start": 43.833,
+      "end": 49.8,
+      "title": "가벼웠던 내일",
+      "lyric": "내일을 묻는 질문도 / 그렇게 무겁진 않았어",
+      "description": "정류장 너머 넓은 여름 하늘. 두 청소년이 작게 앉아 있다.",
+      "motion": "하늘 중심 와이드. 구름만 느리게 흐름.",
+      "start_image": "F013",
+      "end_image": "F013"
+    },
+    {
+      "cut": 13,
+      "start": 49.8,
+      "end": 54.1,
+      "title": "현재의 무게",
+      "lyric": "지금은 뭐가 이렇게 많아",
+      "description": "따뜻한 회상의 손에서 현재의 차가운 손으로 매치컷.",
+      "motion": "가방을 쥔 손의 클로즈업. 힘줄에 긴장.",
+      "start_image": "F014",
+      "end_image": "F014"
+    },
+    {
+      "cut": 14,
+      "start": 54.1,
+      "end": 58.033,
+      "title": "계산하는 밤",
+      "lyric": "따져야 할 게 늘어났지",
+      "description": "좁은 책상 위에 영수증과 식은 커피, 뒤에는 주인공.",
+      "motion": "사물 중심 고정. 창밖 불빛의 잔상.",
+      "start_image": "F015",
+      "end_image": "F015"
+    },
+    {
+      "cut": 15,
+      "start": 58.033,
+      "end": 64.133,
+      "title": "아껴 쓰는 마음",
+      "lyric": "시간, 체력, 마음까지 / 전부 아껴 써야 할 것처럼",
+      "description": "퇴근길 계단. 주인공이 잠시 멈추고 숨을 고른다.",
+      "motion": "측면 롱숏. 호흡과 그림자만 움직임.",
+      "start_image": "F016",
+      "end_image": "F016"
+    },
+    {
+      "cut": 16,
+      "start": 64.133,
+      "end": 71,
+      "title": "괜찮은 척",
+      "lyric": "괜찮은 척은 익숙해졌고 / 여유는 미뤄두는 게 습관이 됐어",
+      "description": "휴대폰 앞에서는 살짝 웃다가, 화면을 내리자 표정이 풀린다.",
+      "motion": "미디엄 클로즈업. 같은 카메라에서 미소가 사라짐.",
+      "start_image": "F017",
+      "end_image": "F018"
+    },
+    {
+      "cut": 17,
+      "start": 71,
+      "end": 76.766,
+      "title": "나중에, 다음에",
+      "lyric": "나중에 / 다음에 / 그 말만 계속 늘었지",
+      "description": "뒤집어 놓은 휴대폰 곁으로 빗방울이 떨어진다.",
+      "motion": "벤치 디테일. 글자 없는 화면으로 처리.",
+      "start_image": "F019",
+      "end_image": "F019"
+    },
+    {
+      "cut": 18,
+      "start": 76.766,
+      "end": 82.3,
+      "title": "반복",
+      "lyric": "매일 같은 시간 / 같은 거리 / 같은 표정",
+      "description": "똑같은 버스 정류장 안에 주인공이 홀로 앉아 있다.",
+      "motion": "정면 대칭 와이드. 뒤쪽 군중만 흘러감.",
+      "start_image": "F020",
+      "end_image": "F020"
+    },
+    {
+      "cut": 19,
+      "start": 82.3,
+      "end": 88.766,
+      "title": "멈춰 있는 기분",
+      "lyric": "숨은 쉬고 있는데 / 멈춰 있는 기분",
+      "description": "주인공의 옆얼굴. 숨결만 남고 빗방울이 공중에서 멈춘다.",
+      "motion": "측면 클로즈업. 첫 마법은 작은 물방울 하나.",
+      "start_image": "F021",
+      "end_image": "F021"
+    },
+    {
+      "cut": 20,
+      "start": 88.766,
+      "end": 93.633,
+      "title": "이상한 반사",
+      "lyric": "생각 없이 웃는 게",
+      "description": "유리 속에 청소년 시절 자신의 모습이 비친다.",
+      "motion": "어른의 어깨 너머 반사. 과거의 자신만 따뜻한 색.",
+      "start_image": "F022",
+      "end_image": "F022"
+    },
+    {
+      "cut": 21,
+      "start": 93.633,
+      "end": 98.5,
+      "title": "어색한 미소",
+      "lyric": "이제는 좀 어색해",
+      "description": "어른이 유리 속 미소를 따라 하려다 멈춘다.",
+      "motion": "어른 얼굴 클로즈업. 감정은 작고 절제해서.",
+      "start_image": "F023",
+      "end_image": "F023"
+    },
+    {
+      "cut": 22,
+      "start": 98.5,
+      "end": 103.033,
+      "title": "다가오는 빛",
+      "lyric": "아무 일도 없는데 / 괜히 지친 하루",
+      "description": "젖은 도로에 버스 불빛이 길게 다가온다.",
+      "motion": "낮은 도로 시점. 청색 반사가 금색으로 바뀜.",
+      "start_image": "F024",
+      "end_image": "F025"
+    },
+    {
+      "cut": 23,
+      "start": 103.033,
+      "end": 106.2,
+      "title": "시간을 싣는 막차",
+      "lyric": "다시, 시간이 남아있던 날처럼",
+      "description": "버스가 정류장 앞에 멈춘다. 주변 빗방울이 정지한다.",
+      "motion": "정류장과 버스의 와이드. 첫 번째 큰 판타지 공개.",
+      "start_image": "F026",
+      "end_image": "F027"
+    },
+    {
+      "cut": 24,
+      "start": 106.2,
+      "end": 109.633,
+      "title": "땅에서 조금 떨어진 바퀴",
+      "lyric": "다시, 시간이 남아있던 날처럼",
+      "description": "정차한 버스의 바퀴가 땅 위에 조금 떠 있다.",
+      "motion": "낮은 디테일. 빗방울과 빛만 움직임.",
+      "start_image": "F028",
+      "end_image": "F028"
+    },
+    {
+      "cut": 25,
+      "start": 109.633,
+      "end": 115.966,
+      "title": "약속 없는 밤의 입구",
+      "lyric": "아무 약속 없어도 괜찮던 밤처럼",
+      "description": "버스 문 너머에는 좌석 대신 여름 들판이 펼쳐져 있다.",
+      "motion": "문 내부를 보는 고정 정면. 풀잎과 빛만 움직임.",
+      "start_image": "F029",
+      "end_image": "F029"
+    },
+    {
+      "cut": 26,
+      "start": 115.966,
+      "end": 122.4,
+      "title": "한 걸음",
+      "lyric": "서두르지 않아도 / 불안하지 않던 그 속도로",
+      "description": "주인공이 계단 앞에 멈췄다가 천천히 발을 올린다.",
+      "motion": "발과 계단 클로즈업. 문턱을 넘는 동작.",
+      "start_image": "F030",
+      "end_image": "F031"
+    },
+    {
+      "cut": 27,
+      "start": 122.4,
+      "end": 125.866,
+      "title": "무거운 가방",
+      "lyric": "하루를 살고 싶어",
+      "description": "주인공이 버스 안 들판에 들어서서 가방끈을 쥐고 있다.",
+      "motion": "뒤쪽 미디엄. 작은 사람과 넓은 들판 대비.",
+      "start_image": "F032",
+      "end_image": "F032"
+    },
+    {
+      "cut": 28,
+      "start": 125.866,
+      "end": 128.766,
+      "title": "그냥 그렇게",
+      "lyric": "그냥 그렇게",
+      "description": "주인공이 풀밭 위에 가방을 내려놓는다.",
+      "motion": "같은 측면 구도에서 가방을 내려놓는 동작.",
+      "start_image": "F033",
+      "end_image": "F034"
+    },
+    {
+      "cut": 29,
+      "start": 128.766,
+      "end": 131.3,
+      "title": "아무것도 하지 않는 시간",
+      "lyric": "이제는 알 것 같아 / 많은걸 가지는 것보다",
+      "description": "주인공이 들판에 앉아 하늘을 바라본다.",
+      "motion": "와이드 고정. 하늘과 풀의 움직임만 남음.",
+      "start_image": "F035",
+      "end_image": "F035"
+    },
+    {
+      "cut": 30,
+      "start": 131.3,
+      "end": 133.9,
+      "title": "느린 바람",
+      "lyric": "이제는 알 것 같아 / 많은걸 가지는 것보다",
+      "description": "가방이 놓인 풀밭. 바람이 풀 사이를 지나간다.",
+      "motion": "풀과 가방 디테일. 고정 카메라, 풀만 움직임.",
+      "start_image": "F036",
+      "end_image": "F036"
+    },
+    {
+      "cut": 31,
+      "start": 133.9,
+      "end": 137.666,
+      "title": "가벼운 손",
+      "lyric": "하루가 덜 무거운 게",
+      "description": "가방끈 대신 풀잎을 살짝 만지는 손.",
+      "motion": "손 클로즈업. 힘이 풀린 손가락.",
+      "start_image": "F037",
+      "end_image": "F037"
+    },
+    {
+      "cut": 32,
+      "start": 137.666,
+      "end": 141.766,
+      "title": "덜 무거운 하루",
+      "lyric": "더 중요하단 걸",
+      "description": "고개를 든 주인공 얼굴에 바람과 햇빛이 닿는다.",
+      "motion": "얼굴 클로즈업. 작은 숨과 눈 깜빡임.",
+      "start_image": "F038",
+      "end_image": "F038"
+    },
+    {
+      "cut": 33,
+      "start": 141.766,
+      "end": 145.666,
+      "title": "멋있을 필요 없이",
+      "lyric": "괜히 멋있어 보일 필요도 / 앞서가는 척도 말고",
+      "description": "구겨진 셔츠와 낡은 신발 그대로 들판에 앉아 있다.",
+      "motion": "전신 측면. 이상화하지 않는 편한 자세.",
+      "start_image": "F039",
+      "end_image": "F039"
+    },
+    {
+      "cut": 34,
+      "start": 145.666,
+      "end": 148.9,
+      "title": "지금의 나",
+      "lyric": "지금의 나로 / 조용히 있어도 되는 시간",
+      "description": "작은 물웅덩이에 현재의 자신이 온전히 비친다.",
+      "motion": "물 표면 디테일. 이번에는 어른의 모습만 반사.",
+      "start_image": "F040",
+      "end_image": "F040"
+    },
+    {
+      "cut": 35,
+      "start": 148.9,
+      "end": 151.2,
+      "title": "그때의 우리",
+      "lyric": "그게 그때 우리가 몰랐던",
+      "description": "멀리 과거의 정류장 벤치가 들판에 보인다.",
+      "motion": "풍경 와이드. 과거 인물은 작고 부드러운 실루엣.",
+      "start_image": "F041",
+      "end_image": "F041"
+    },
+    {
+      "cut": 36,
+      "start": 151.2,
+      "end": 154.1,
+      "title": "진짜 여유",
+      "lyric": "진짜 여유였을지도 몰라",
+      "description": "주인공은 벤치 쪽으로 달려가지 않고 그 자리에 머문다.",
+      "motion": "눈높이 미디엄. 가벼운 미소로 감정 정리.",
+      "start_image": "F042",
+      "end_image": "F042"
+    },
+    {
+      "cut": 37,
+      "start": 154.1,
+      "end": 155.233,
+      "title": "돌아갈 문",
+      "lyric": "짧은 연결 구간",
+      "description": "들판 뒤로 도시의 정류장과 연결된 버스 문이 보인다.",
+      "motion": "들판에서 도시를 보는 역방향 와이드.",
+      "start_image": "F043",
+      "end_image": "F043"
+    },
+    {
+      "cut": 38,
+      "start": 155.233,
+      "end": 159.833,
+      "title": "돌아가고 싶은 건 아니야",
+      "lyric": "다시 돌아가고 싶은 건 아니야",
+      "description": "주인공이 가방을 다시 들고 현재로 향한다.",
+      "motion": "측면 미디엄. 가방을 어깨에 올리는 동작.",
+      "start_image": "F044",
+      "end_image": "F045"
+    },
+    {
+      "cut": 39,
+      "start": 159.833,
+      "end": 163.2,
+      "title": "안녕, 그때의 나",
+      "lyric": "그저 잊지 않고 싶을 뿐",
+      "description": "유리 같은 얇은 빛 속 어린 자신과 마지막으로 눈을 맞춘다.",
+      "motion": "어른과 기억의 자신 투숏. 서로 다가가지 않음.",
+      "start_image": "F046",
+      "end_image": "F046"
+    },
+    {
+      "cut": 40,
+      "start": 163.2,
+      "end": 166.566,
+      "title": "기억을 남기는 인사",
+      "lyric": "그저 잊지 않고 싶을 뿐",
+      "description": "기억 속 자신은 가볍게 손을 들고, 빛이 풀씨로 흩어진다.",
+      "motion": "유리 반사 고정. 인물 전체를 과하게 소멸시키지 않음.",
+      "start_image": "F047",
+      "end_image": "F047"
+    },
+    {
+      "cut": 41,
+      "start": 166.566,
+      "end": 167.8,
+      "title": "문턱의 풀잎",
+      "lyric": "연결 구간",
+      "description": "주인공 손안에 작은 풀잎 하나가 남는다.",
+      "motion": "손 디테일. 이후 엔딩까지 이어지는 소품.",
+      "start_image": "F048",
+      "end_image": "F048"
+    },
+    {
+      "cut": 42,
+      "start": 167.8,
+      "end": 171.2,
+      "title": "돌아온 정류장",
+      "lyric": "시간이 남아 있던 날",
+      "description": "주인공이 버스에서 내려 같은 정류장에 다시 선다.",
+      "motion": "문 밖 측면 와이드. 발을 내딛고 서기까지.",
+      "start_image": "F049",
+      "end_image": "F050"
+    },
+    {
+      "cut": 43,
+      "start": 171.2,
+      "end": 174.3,
+      "title": "그 속도",
+      "lyric": "그 속도로 살던 나를",
+      "description": "손목시계는 여전히 가지만 주인공은 더 이상 재촉하지 않는다.",
+      "motion": "손목 디테일. 동일 소품으로 앞 장면에 응답.",
+      "start_image": "F051",
+      "end_image": "F051"
+    },
+    {
+      "cut": 44,
+      "start": 174.3,
+      "end": 177,
+      "title": "남아 있는 온기",
+      "lyric": "아직 내 안에 두고 싶어",
+      "description": "주인공이 풀잎을 가슴 주머니에 넣고 미소 짓는다.",
+      "motion": "가슴 위 미디엄. 손을 내리며 작게 웃음.",
+      "start_image": "F052",
+      "end_image": "F053"
+    },
+    {
+      "cut": 45,
+      "start": 177,
+      "end": 184.56,
+      "title": "내 속도로 걷기",
+      "lyric": "아직 내 안에 두고 싶어",
+      "description": "아침의 골목을 천천히 걸어가는 주인공. 버스는 더 이상 없다.",
+      "motion": "후면 롱숏. 마지막 가사 종료(180.200초) 뒤에도 같은 화면을 유지하고, 음원 끝(184.560초)까지 여운을 남긴다. 마지막 1초는 편집 단계에서 천천히 암전 가능.",
+      "start_image": "F054",
+      "end_image": "F054"
+    }
+  ],
+  "frames": [
+    {
+      "id": "F001",
+      "shot": 1,
+      "role": "시작·종료 공용",
+      "prompt": "Extreme wide establishing of rainy Seoul hillside at late blue night, layers of apartments and utility wires, a tiny EMPTY bus shelter at bottom right, no bus, no protagonist, quiet tired city. Cool slate blues, minimal gold."
+    },
+    {
+      "id": "F002",
+      "shot": 2,
+      "role": "시작·종료 공용",
+      "prompt": "Intimate empty wet wooden bench in modest Korean glass bus shelter at blue night, tiny clear raindrops on glass, distant apartment window bokeh, no phone no bag no people no bus, quiet anticipatory negative space."
+    },
+    {
+      "id": "F003",
+      "shot": 3,
+      "role": "시작·종료 공용",
+      "prompt": "Rear long shot of protagonist standing momentarily on wet uphill neighborhood street, shoulders heavy, black shoulder bag, distant bus shelter ahead, narrow walls, dim streetlight, no bus."
+    },
+    {
+      "id": "F004",
+      "shot": 4,
+      "role": "시작·종료 공용",
+      "prompt": "Low closeup worn dark sneakers and charcoal trouser hems of adult protagonist on rain-wet Korean neighborhood stone pavement, tiny puddle reflecting cool apartment lights, black bag edge barely at top frame, no magical light yet."
+    },
+    {
+      "id": "F005",
+      "shot": 5,
+      "role": "시작·종료 공용",
+      "prompt": "Eye-level medium shot protagonist at a city crosswalk at night, in sharp focus with weary eyes; adult commuters around him as soft blue painted motion trails, wet street, no magic yet."
+    },
+    {
+      "id": "F006",
+      "shot": 6,
+      "role": "시작",
+      "prompt": "Medium close shot from chest height of protagonist looking DOWN at his simple analog wristwatch on left wrist, bag strap visible, wet blue street background, restrained fatigue."
+    },
+    {
+      "id": "F007",
+      "shot": 6,
+      "role": "종료",
+      "prompt": "Same medium close shot same street and framing, protagonist has lifted his gaze from his left wristwatch toward the bus stop offscreen, hand lowered slightly, tired eyes now attentive. No magical light yet."
+    },
+    {
+      "id": "F008",
+      "shot": 7,
+      "role": "시작·종료 공용",
+      "prompt": "Bus shelter glass close wide composition with adult protagonist reflected on one side, faint warm summer evening reflection in the other side, realistic Seoul bus shelter, cool current world and subtle amber remembered sky, no bus."
+    },
+    {
+      "id": "F009",
+      "shot": 8,
+      "role": "시작·종료 공용",
+      "prompt": "Extreme detail of bus shelter glass at cold blue rainy night, one corner reflects impossibly warm summer leaves and low apricot sky, adult protagonist silhouette very faint at edge, no child no bus, restrained transition to memory."
+    },
+    {
+      "id": "F010",
+      "shot": 9,
+      "role": "시작·종료 공용",
+      "prompt": "Warm memory scene: teenage version of protagonist age 17 cream T-shirt dark trousers and one similarly aged friend in muted sage T-shirt sit on a humble Korean neighborhood bus stop bench at summer dusk, school bags on ground, relaxed sky, no adult protagonist, no magical bus."
+    },
+    {
+      "id": "F011",
+      "shot": 10,
+      "role": "시작·종료 공용",
+      "prompt": "Intimate warm two shot teenage protagonist and teenage friend seated on bus stop bench, candid unguarded laugh, warm apricot summer sky, hand casually pointing toward distance, delicate faces and watercolor texture. Both teenagers are the same age 17, cream and sage T-shirts. No adult, no small child, no bus."
+    },
+    {
+      "id": "F012",
+      "shot": 11,
+      "role": "시작·종료 공용",
+      "prompt": "Tender close up of a teenage boy's open hand holding only three small ordinary coins and an old blank paper bus ticket without text, cream T-shirt sleeve visible, warm sunset reflected on coins, soft watercolor bus stop bench behind, no readable writing."
+    },
+    {
+      "id": "F013",
+      "shot": 12,
+      "role": "시작·종료 공용",
+      "prompt": "Very wide cinematic summer evening sky above Korean hillside bus stop, teenage protagonist and friend tiny on bench in lower third, expansive apricot pale blue clouds and distant river, feeling endless possibility, no fantastical bus."
+    },
+    {
+      "id": "F014",
+      "shot": 13,
+      "role": "시작·종료 공용",
+      "prompt": "Closeup adult protagonist hand tightly gripping worn black canvas shoulder bag strap at chest, ivory rolled sleeve, rain specks, cold blue city street bokeh, tactile tired knuckles, no text."
+    },
+    {
+      "id": "F015",
+      "shot": 14,
+      "role": "시작·종료 공용",
+      "prompt": "Moody small Korean studio apartment desk still life: unmarked receipts with indistinct illegible marks, cold coffee, simple analog watch, folded bills face down; adult protagonist out of focus sitting beyond, ivory shirt, cool window glow, no readable text."
+    },
+    {
+      "id": "F016",
+      "shot": 15,
+      "role": "시작·종료 공용",
+      "prompt": "Side view full body adult protagonist pausing halfway on steep wet Seoul neighborhood stone steps, one hand lightly on railing, black bag on shoulder, tired bent posture, densely layered blue houses, ordinary world."
+    },
+    {
+      "id": "F017",
+      "shot": 16,
+      "role": "시작",
+      "prompt": "Medium close up adult protagonist under cool bus shelter light holding smartphone low, screen not visible, making a tiny practiced polite smile with tired eyes, black shoulder strap visible."
+    },
+    {
+      "id": "F018",
+      "shot": 16,
+      "role": "종료",
+      "prompt": "Exactly same medium close framing and cool bus shelter, protagonist has lowered smartphone out of frame and his polite smile has faded into honest fatigue, shoulders relax slightly, gentle face, no magic."
+    },
+    {
+      "id": "F019",
+      "shot": 17,
+      "role": "시작·종료 공용",
+      "prompt": "Close shot of a face-down dark smartphone resting on a wet bus shelter bench beside adult protagonist's relaxed hand and black canvas bag, falling raindrops in background, cool desaturated blue, quiet postponement, no screen text."
+    },
+    {
+      "id": "F020",
+      "shot": 18,
+      "role": "시작·종료 공용",
+      "prompt": "Symmetrical frontal wide shot adult protagonist seated alone at center of a modest Korean glass bus shelter, ivory shirt charcoal pants black bag beside him, behind glass blurred blue commuter trails repeat, rainy slate night, no bus."
+    },
+    {
+      "id": "F021",
+      "shot": 19,
+      "role": "시작·종료 공용",
+      "prompt": "Profile closeup adult protagonist seated in bus shelter looking blankly ahead, one tiny crystal raindrop suspended just outside glass at eye level, other rain still ordinary, blue ambient light, first very subtle magic, no glowing clock."
+    },
+    {
+      "id": "F022",
+      "shot": 20,
+      "role": "시작·종료 공용",
+      "prompt": "Over adult protagonist shoulder toward bus shelter glass: reflection is his teenage self cream T-shirt, subtly smiling warmly instead of adult reflection, adult black hair and ivory shoulder foreground, blue city outside, delicate golden reflection, no separate physical child."
+    },
+    {
+      "id": "F023",
+      "shot": 21,
+      "role": "시작·종료 공용",
+      "prompt": "Closeup adult protagonist face seen through shelter glass, trying a very small uncertain smile, warm faint reflection light on cheek, blue night around eyes, no tears, nuanced Korean webtoon expression."
+    },
+    {
+      "id": "F024",
+      "shot": 22,
+      "role": "시작",
+      "prompt": "Low angle shot of wet road leading to hillside bus stop, faint distant paired amber headlights around bend, blue rain reflections, no protagonist in frame, bus mostly obscured."
+    },
+    {
+      "id": "F025",
+      "shot": 22,
+      "role": "종료",
+      "prompt": "Same low road camera, weathered muted teal Korean city bus now approaching close with warm amber headlights, road reflections bloom softly gold, bus still grounded and doors closed, modest magical atmosphere."
+    },
+    {
+      "id": "F026",
+      "shot": 23,
+      "role": "시작",
+      "prompt": "Cinematic wide at approved reference Seoul hillside bus stop: adult protagonist standing left, magical weathered teal cream-roof city bus arriving right with CLOSED folding glass doors, slightly floating above wet pavement, amber windows, a few suspended rain droplets, no meadow visible yet."
+    },
+    {
+      "id": "F027",
+      "shot": 23,
+      "role": "종료",
+      "prompt": "Same wide composition adult protagonist left and magical teal cream-roof bus right: doors now OPEN onto luminous summer meadow with golden grasses and sunset inside; tiny suspended raindrops and subtle vine leaves, blue Seoul beyond, breathtaking restrained reveal. Match approved reference closely."
+    },
+    {
+      "id": "F028",
+      "shot": 24,
+      "role": "시작·종료 공용",
+      "prompt": "Low closeup one wheel of weathered muted teal cream-roof Korean vintage bus floating only twenty centimeters above rain-wet pavement, tiny suspended crystal raindrops and amber reflections, subtle vine by door edge, magical and believable, no people visible."
+    },
+    {
+      "id": "F029",
+      "shot": 25,
+      "role": "시작·종료 공용",
+      "prompt": "Front-on close view of OPEN magical bus doorway, recognizable teal metal door frame and folding glass on edges, beyond threshold endless warm summer meadow and low sun, ordinary bus handrails frame portal, no people, tactile golden grass, matte watercolor."
+    },
+    {
+      "id": "F030",
+      "shot": 26,
+      "role": "시작",
+      "prompt": "Close low shot protagonist's charcoal trouser legs and worn dark sneakers standing on wet blue pavement BEFORE warm glowing bus step, teal bus door edge, grass visible just above threshold."
+    },
+    {
+      "id": "F031",
+      "shot": 26,
+      "role": "종료",
+      "prompt": "Same low close camera protagonist's leading dark sneaker now resting on warm bus step at meadow threshold, trailing foot still on wet pavement, charcoal trousers, warm gold grazing shoe, no extra limbs."
+    },
+    {
+      "id": "F032",
+      "shot": 27,
+      "role": "시작·종료 공용",
+      "prompt": "Rear medium wide adult protagonist now standing inside vast sunlit summer meadow framed subtly by teal bus doorway behind camera edges, ivory shirt charcoal trousers black shoulder bag still worn, rolling hills and breeze, warm quiet wonder."
+    },
+    {
+      "id": "F033",
+      "shot": 28,
+      "role": "시작",
+      "prompt": "Side medium full shot adult protagonist in golden meadow beginning to bend gently, one hand holding black canvas bag just above knee height, ivory sleeves charcoal trousers, calm face, tall golden grass. Only ONE bag held in hand; no bag or strap worn on shoulder."
+    },
+    {
+      "id": "F034",
+      "shot": 28,
+      "role": "종료",
+      "prompt": "Same side medium full composition adult protagonist straightened softly after setting black canvas bag down on grass beside right foot, shoulders visibly released, warm breeze, golden meadow, hands relaxed. Bag already set down; NO strap on shoulder, no bag worn. If visible, bag rests separately on ground."
+    },
+    {
+      "id": "F035",
+      "shot": 29,
+      "role": "시작·종료 공용",
+      "prompt": "Wide rear three-quarter view adult protagonist sitting on golden meadow grass with knees loose and hands behind supporting him, black canvas bag on grass beside him, ivory shirt charcoal trousers, vast apricot sky, serene unhurried landscape."
+    },
+    {
+      "id": "F036",
+      "shot": 30,
+      "role": "시작·종료 공용",
+      "prompt": "Close low still life worn black canvas shoulder bag resting on sunlit meadow grass, ivory shirt sleeve of seated adult barely visible at upper edge, warm breeze in sage and golden grasses, tactile quiet watercolor, no fantasy particles."
+    },
+    {
+      "id": "F037",
+      "shot": 31,
+      "role": "시작·종료 공용",
+      "prompt": "Extreme gentle closeup adult protagonist relaxed fingertips brushing one slender sage-green blade of meadow grass, ivory sleeve edge, golden sun through fingers, empty open palm, tactile watercolor and paper grain. Bag already set down; NO strap on shoulder, no bag worn. If visible, bag rests separately on ground."
+    },
+    {
+      "id": "F038",
+      "shot": 32,
+      "role": "시작·종료 공용",
+      "prompt": "Close portrait adult protagonist in meadow, gentle closed eyes and face turned slightly toward warm low sunlight, short tousled black hair moving softly, honest relief with tiny almost smile, ivory open collar no tie, painterly 2D. Bag already set down; NO strap on shoulder, no bag worn. If visible, bag rests separately on ground."
+    },
+    {
+      "id": "F039",
+      "shot": 33,
+      "role": "시작·종료 공용",
+      "prompt": "Side full body adult protagonist sitting casually in meadow with one knee up, naturally wrinkled ivory shirt and worn sneakers, black bag beside him, ordinary unposed appearance, quiet smile, sunset grass, no glamorous makeover. Bag already set down; NO strap on shoulder, no bag worn. If visible, bag rests separately on ground."
+    },
+    {
+      "id": "F040",
+      "shot": 34,
+      "role": "시작·종료 공용",
+      "prompt": "Top down view of small still meadow puddle reflecting adult protagonist's calm face and ivory shirt, short black hair, warm sky and a single grass blade around puddle edge; reflection is clearly adult, no child, subtle ripples."
+    },
+    {
+      "id": "F041",
+      "shot": 35,
+      "role": "시작·종료 공용",
+      "prompt": "Wide poetic golden meadow with distant old bus stop bench, two tiny teenage friends seated in warm haze far away, adult protagonist seen small foreground from behind sitting on grass, memory acknowledged at distance, not reunion, beautiful open space. Bag already set down; NO strap on shoulder, no bag worn. If visible, bag rests separately on ground."
+    },
+    {
+      "id": "F042",
+      "shot": 36,
+      "role": "시작·종료 공용",
+      "prompt": "Eye-level medium adult protagonist seated still in warm meadow looking toward far distance with quiet accepting smile, black shoulder bag on grass at side, open relaxed posture, no other person nearby, soft honey light. Bag already set down; NO strap on shoulder, no bag worn. If visible, bag rests separately on ground."
+    },
+    {
+      "id": "F043",
+      "shot": 37,
+      "role": "시작·종료 공용",
+      "prompt": "Reverse view from golden meadow toward a free-standing open teal bus doorway, through it cool blue Seoul bus shelter and wet neighborhood street visible, dusk warm grass foreground, no people, elegant restrained impossible architecture."
+    },
+    {
+      "id": "F044",
+      "shot": 38,
+      "role": "시작",
+      "prompt": "Side medium adult protagonist standing in meadow holding black canvas bag handle low, looking calmly toward open teal doorway to city in distance, ivory shirt charcoal trousers, sunset. Only ONE bag held in hand; no bag or strap worn on shoulder."
+    },
+    {
+      "id": "F045",
+      "shot": 38,
+      "role": "종료",
+      "prompt": "Same side medium scene adult protagonist has lifted worn black canvas bag strap onto right shoulder across to left hip, standing upright lightly, gaze toward teal doorway, same sunset and meadow, calm decision."
+    },
+    {
+      "id": "F046",
+      "shot": 39,
+      "role": "시작·종료 공용",
+      "prompt": "Poetic two-shot adult protagonist standing foreground left in ivory shirt black bag, teenage self cream T-shirt visible only as a warm translucent reflection in narrow bus door glass on right, both exchange tiny understanding smiles, golden meadow behind, not ghost horror."
+    },
+    {
+      "id": "F047",
+      "shot": 40,
+      "role": "시작·종료 공용",
+      "prompt": "Close view of bus door glass with faint smiling teenage reflection raising a small hand in farewell, reflection edges becoming a few delicate golden grass seeds, adult protagonist shoulder blurred foreground, tender understated light, no spectacle."
+    },
+    {
+      "id": "F048",
+      "shot": 41,
+      "role": "시작·종료 공용",
+      "prompt": "Closeup adult protagonist hand loosely holding a single slender green blade of grass, ivory sleeve and black bag strap edge, background split warm meadow and cool bus doorway, delicate honey rimlight, ordinary physical grass no jewel."
+    },
+    {
+      "id": "F049",
+      "shot": 42,
+      "role": "시작",
+      "prompt": "Wide side view blue Seoul hillside bus shelter and magical teal bus with amber open doors, adult protagonist on last bus step about to descend, ivory shirt black bag, dawn beginning at horizon, grass blade in right hand."
+    },
+    {
+      "id": "F050",
+      "shot": 42,
+      "role": "종료",
+      "prompt": "Same side wide composition protagonist now standing safely on wet pavement beside shelter, both feet grounded away from bus, open amber bus doors behind him, slight dawn glow, black bag and grass blade retained."
+    },
+    {
+      "id": "F051",
+      "shot": 43,
+      "role": "시작·종료 공용",
+      "prompt": "Closeup protagonist left wrist wearing SAME simple analog wristwatch, relaxed hand rather than tense, ivory cuff, in other hand barely visible single grass blade, cool dawn and subtle warm light, no readable brand or distorted digits."
+    },
+    {
+      "id": "F052",
+      "shot": 44,
+      "role": "시작",
+      "prompt": "Medium portrait adult protagonist at dawn bus shelter gently placing a single slender green grass blade into ivory shirt chest pocket, black bag shoulder strap, face calm and softly smiling, blue city amber horizon."
+    },
+    {
+      "id": "F053",
+      "shot": 44,
+      "role": "종료",
+      "prompt": "Same medium portrait protagonist hand now lowered, one green blade visibly tucked in ivory shirt chest pocket, calm small smile and relaxed shoulders, same dawn bus shelter and black bag, no other changes."
+    },
+    {
+      "id": "F054",
+      "shot": 45,
+      "role": "시작·종료 공용",
+      "prompt": "Rear long shot adult protagonist walking slowly away down same Seoul hillside neighborhood street at soft early dawn, ivory shirt charcoal trousers worn black bag, no bus, faint warm windows and wet road, unhurried ordinary hopeful city, restrained golden morning."
+    }
+  ],
+  "production_status": {
+    "state": "complete",
+    "planned_images": 54,
+    "generated_images": [
+      "F001",
+      "F002",
+      "F003",
+      "F004",
+      "F005",
+      "F006",
+      "F007",
+      "F008",
+      "F009",
+      "F010",
+      "F011",
+      "F012",
+      "F013",
+      "F014",
+      "F015",
+      "F016",
+      "F017",
+      "F018",
+      "F019",
+      "F020",
+      "F021",
+      "F022",
+      "F023",
+      "F024",
+      "F025",
+      "F026",
+      "F027",
+      "F028",
+      "F029",
+      "F030",
+      "F031",
+      "F032",
+      "F033",
+      "F034",
+      "F035",
+      "F036",
+      "F037",
+      "F038",
+      "F039",
+      "F040",
+      "F041",
+      "F042",
+      "F043",
+      "F044",
+      "F045",
+      "F046",
+      "F047",
+      "F048",
+      "F049",
+      "F050",
+      "F051",
+      "F052",
+      "F053",
+      "F054"
+    ],
+    "pending_images": [],
+    "cuts": 45,
+    "shared_endpoint_cuts": 36,
+    "distinct_endpoint_cuts": 9,
+    "audio_analyzed": true,
+    "validation": "54 unique PNG files; continuous 0–184.56s timeline; MP3 signal analysis completed; no word-level lyric alignment"
+  },
+  "audio_analysis": {
+    "method": "ffmpeg decode, RMS amplitude, spectral onset autocorrelation; no listening or word-level forced alignment",
+    "duration_seconds": 184.56,
+    "decoded_duration_seconds": 184.52,
+    "tempo_bpm_estimate": 73.828125,
+    "double_time_bpm_estimate": 147.65625,
+    "lyric_end_seconds": 180.2,
+    "outro_seconds": 4.36,
+    "automatic_beat_alignment": false
+  }
+}
