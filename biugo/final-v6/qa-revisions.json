@@ -1,0 +1,70 @@
+[
+  {
+    "file": "V6_C005_START.png",
+    "issue": "사전 등장 손님 제거",
+    "status": "fixed"
+  },
+  {
+    "file": "V6_C006_START.png",
+    "issue": "불필요한 남성 손님 제거, 지안의 퇴장 전 피곤한 표정 유지",
+    "status": "fixed"
+  },
+  {
+    "file": "V6_C009_START.png",
+    "issue": "얼굴 반복을 손·셔츠 인서트로 변경",
+    "status": "fixed"
+  },
+  {
+    "file": "V6_C013_START.png",
+    "issue": "작은 금색 장식을 큰 짙은 구름 고리로 수정",
+    "status": "fixed"
+  },
+  {
+    "file": "V6_C003_END.png",
+    "issue": "소매가 명확히 수축한 종료 상태 필요",
+    "status": "fixed",
+    "revision_prompt": "Precise local edit. In this image the open round NAVY sleeve cuff at CENTER RIGHT is still too open. Change ONLY that cuff: it has now rolled inward ON ITS OWN into a TIGHT COMPACT SPIRAL, the sleeve shortens about 15cm, and its formerly 25cm-wide round opening becomes a tiny 3cm slit, almost CLOSED. Show a clearly curled, doubled-over fabric spiral, not another open cylinder. Keep the withdrawing ivory-sleeved hands exactly as they are, the left gray-sleeved customer hand, large coat lining cloud and whole camera/background unchanged. No new people, no extra smoke. One single landscape 16:9 illustrated frame."
+  },
+  {
+    "file": "V6_C004_END.png",
+    "issue": "옷 전달 방향이 반대: 지안은 놓고 서온이 받아야 함",
+    "status": "fixed",
+    "revision_prompt": "Correct the coat handover direction in this two-woman scene while keeping exact faces, hair, garments, camera and cloud. The LEFT woman with BROWN PONYTAIL in GRAY CARDIGAN is the CUSTOMER: she has LET GO and BOTH HER HANDS are EMPTY, open near her own waist, NOT touching coat. The RIGHT woman with BLACK BOB in IVORY KNIT is the SHOPKEEPER: BOTH HER HANDS support the EMPTY NAVY COAT from UNDERNEATH, one under its lower middle, one under its far edge, holding all its weight close to her side above counter. The large gray-blue cloud stays in the coat lining. Physically move the coat a little right toward shopkeeper if necessary. No hand from customer grips coat. This is AFTER she gives it to shopkeeper, not a return. Preserve same two-shot composition and warm illustrated style; no added people or text."
+  },
+  {
+    "file": "V6_C026_START.png",
+    "issue": "여주 중심 화보 구도를 넓은 빈틈과 작은 배경 인물로 수정",
+    "status": "fixed",
+    "revision_prompt": "Recompose this SINGLE landscape 16:9 scene as a SPACE/EMPTY GAP shot, not a heroine portrait. Make the foreground hanging NAVY coat and WHITE sheet large blurred framing edges, with a wide empty sunlit gap between them occupying the central 60 percent of image. Camera pulled back from the doorway: the black-bob heroine is TINY in far background by mint door, only about 15 percent of image height, seen in SIDE/BACK view turning toward her work inside, NOT looking at camera and NOT posing. Same outfit and Korean county-town laundry courtyard, same golden hour, normal flat clothes without clouds. Focus on light through the empty gap, low courtyard wall and ordinary roofs beyond. Do not enlarge woman, do not give a fashion pose or centered full-body presentation. No new people or text."
+  },
+  {
+    "file": "V6_C038_START.png",
+    "issue": "앞치마 손 인서트 구도",
+    "status": "fixed",
+    "revision_prompt": "Single landscape 16:9 warm Korean webtoon illustration, golden light in a small Korean county-town laundry. Extreme close-up of a charcoal WORK APRON and two adult hands only, framed at the apron fabric. One hand grips a folded section of apron; a two-fist-sized soft dark slate-blue magical cloud is trapped inside the fabric fold. The other hand approaches edge, preparing to spread the fold and release the worry. Ivory knitted sleeve cuffs. No face, no head, no text, no panels. Focus on hands, cloth and magical cloud, with worn mint laundry counter softly blurred behind."
+  },
+  {
+    "file": "V6_C041_START.png",
+    "issue": "셔츠 전달 손 인서트",
+    "status": "fixed",
+    "revision_prompt": "Reframe as TIGHT HANDS-AND-SHIRT INSERT ONLY: absolutely NO heads, faces or chests. White folded shirt fills center with straight normal open collar. At TOP ivory-knit-sleeved shopkeeper hands support far edge; at BOTTOM navy-cardigan-sleeved male customer hands reach underneath near edge ready to receive. Four hands total. Wooden counter, blurred mint laundry background. Preserve same normal white shirt and golden illustrated light. Single landscape16:9."
+  },
+  {
+    "file": "V6_C048_START.png",
+    "issue": "귀가 후 토트백 구름 제거",
+    "status": "fixed",
+    "revision_prompt": "Remove ONLY the dark blue cloud on young man's CANVAS TOTE BAG. The entire canvas tote must be plain empty cream cloth, absolutely NO dark cloud decoration, stain, embroidery or magic. This is AFTER his worries have cleared. Keep same back view man walking, older marketman at stall, exact street camera and warm style. Single16:9."
+  },
+  {
+    "file": "V6_C050_START.png",
+    "issue": "찻잔 문양 연결",
+    "status": "fixed",
+    "revision_prompt": "Change ONLY tea cup: same low wide white porcelain cup as reference49, pink-and-white small flower with green leaves decoration and thin golden rim, not tall blue decorated mug. Keep woman resting looking outwindow, exact camera, face, scene. Single16:9."
+  },
+  {
+    "file": "V6_C052_START.png",
+    "issue": "마지막 장면 작업 대신 휴식",
+    "status": "fixed",
+    "revision_prompt": "Keep this wide final exterior laundry scene, exact buildings, sunset, heroine seated small inside. She has FINISHED work and is RESTING: remove folded towels immediately under her hands on table; replace with ONE white floral teacup with pink flowers and green leaves and saucer. Her hands relaxed holding cup near chest, gaze peacefully out toward street, NOT looking at viewer, NOT folding laundry. Normal clothes remain in shop. No clouds. Single16:9."
+  }
+]

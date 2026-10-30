@@ -1,0 +1,290 @@
+[
+  {
+    "cut": "V6_C003",
+    "role": "END",
+    "filename": "V6_C003_END.png",
+    "start_file": "V6_C003_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same locked camera and hands/clothes. Seo-on fingertips have withdrawn 5cm from cuff, which has curled tightly inward BY ITSELF into a clear round coil. Jian hand freezes in surprise. Large cloud remains in lining. Only cuff deformation and small hand positions change.",
+    "mode": "object"
+  },
+  {
+    "cut": "V6_C004",
+    "role": "END",
+    "filename": "V6_C004_END.png",
+    "start_file": "V6_C004_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same two shot. Jian has opened and withdrawn hands, Seo-on now supports coat alone over counter. Cloud stays in same garment, same large volume. Customer shoulders relax just a little, not smiling broadly yet.",
+    "mode": "cast"
+  },
+  {
+    "cut": "V6_C006",
+    "role": "END",
+    "filename": "V6_C006_END.png",
+    "start_file": "V6_C006_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same wide camera. Jian has stepped outside glass entry and is seen only small beyond door. Heroine now at ironing station right preparing tools. Bulky navy coat remains at its ONE counter position. No teleporting furniture.",
+    "mode": "cast"
+  },
+  {
+    "cut": "V6_C007",
+    "role": "END",
+    "filename": "V6_C007_END.png",
+    "start_file": "V6_C007_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same camera and jacket anomaly. Dosik has stepped just inside threshold, still carrying jacket and basket, tired shoulder posture. Pocket remains visibly pulled downward, not fixed yet. Heroine remains at work behind counter.",
+    "mode": "cast"
+  },
+  {
+    "cut": "V6_C008",
+    "role": "END",
+    "filename": "V6_C008_END.png",
+    "start_file": "V6_C008_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same shot. He has removed supporting hand and pocket sinks 25cm again, clearly lower than opposite side; large cloud hangs from it. His brows tighten at the impossible weight. Same face, pocket side and jacket.",
+    "mode": "cast"
+  },
+  {
+    "cut": "V6_C009",
+    "role": "END",
+    "filename": "V6_C009_END.png",
+    "start_file": "V6_C009_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same hands and shirt. Cloud ring has constricted tighter by itself, crushing collar into puckered folds despite his fingers gently trying to spread fabric. A clear dark voluminous ring against white, not thread or dirty stain.",
+    "mode": "object"
+  },
+  {
+    "cut": "V6_C011",
+    "role": "END",
+    "filename": "V6_C011_END.png",
+    "start_file": "V6_C011_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same camera. Minjae hands are now open and released; heroine supports white shirt on counter, ring still attached. Her expression remains calm and knowing, gaze at customer rather than camera.",
+    "mode": "hero"
+  },
+  {
+    "cut": "V6_C013",
+    "role": "END",
+    "filename": "V6_C013_END.png",
+    "start_file": "V6_C013_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same framing. Her free hand now grips iron handle, other hand has spread collar on board in preparation. Ring still intact and tight; no magical release yet. Small shift of weight in ordinary work, same face looking down.",
+    "mode": "hero"
+  },
+  {
+    "cut": "V6_C014",
+    "role": "END",
+    "filename": "V6_C014_END.png",
+    "start_file": "V6_C014_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same exact overhead-oblique camera, board and hands. Iron has completed one short pass; ring now OPEN at one side and lifted just above collar, no longer touching. Collar beneath straight and normal. Released dark cloud rests above adjacent white collection cloth, not disappearing yet.",
+    "mode": "object"
+  },
+  {
+    "cut": "V6_C015",
+    "role": "END",
+    "filename": "V6_C015_END.png",
+    "start_file": "V6_C015_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same camera. Her hand has tightened on same apron fold, cloud bulge is more compact and visible. It stays trapped INSIDE this fold until she deliberately spreads it later; not a bow or thread ball. Cloth gathers under fingers.",
+    "mode": "object"
+  },
+  {
+    "cut": "V6_C017",
+    "role": "END",
+    "filename": "V6_C017_END.png",
+    "start_file": "V6_C017_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same fixed camera. Peg now CLOSED securing shirt on hanger/rail, heroine fingers have released peg. White collar hangs flat with normal silhouette, no duplicated shirt or ring.",
+    "mode": "object"
+  },
+  {
+    "cut": "V6_C018",
+    "role": "END",
+    "filename": "V6_C018_END.png",
+    "start_file": "V6_C018_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same overhead, pocket and hands. Final stitch is pulled snug, seam now neat; large cloud is loosening at edge but still attached to pocket. Do not make cloud disappear before next cut.",
+    "mode": "object"
+  },
+  {
+    "cut": "V6_C019",
+    "role": "END",
+    "filename": "V6_C019_END.png",
+    "start_file": "V6_C019_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same camera and heroine identity. Iron has passed pocket seam, large cloud lifts clear of pocket into air above adjacent white collection cloth; pocket and hem return to normal height. Dark solid cloud distinct from thin white steam.",
+    "mode": "hero"
+  },
+  {
+    "cut": "V6_C020",
+    "role": "END",
+    "filename": "V6_C020_END.png",
+    "start_file": "V6_C020_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same fixed shot. Her hands have spread lining flat; coat cloud lifts FREE onto collection sheet beside the other TWO, exactly THREE slate masses in total. Navy coat is now normal thin empty clothing, sleeves open. Do not duplicate any cloud.",
+    "mode": "hero"
+  },
+  {
+    "cut": "V6_C022",
+    "role": "END",
+    "filename": "V6_C022_END.png",
+    "start_file": "V6_C022_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same shot. Arms now spread wide at chest height, cloth opens broad and billows, exactly three clouds remain on its upper surface, slightly paler but still well-defined. Feet and body weight shift naturally, face attentive to cloth.",
+    "mode": "hero"
+  },
+  {
+    "cut": "V6_C023",
+    "role": "END",
+    "filename": "V6_C023_END.png",
+    "start_file": "V6_C023_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same camera and heroine. Cloth has just snapped outward with a broad wave; THREE clouds have detached above cloth, stretched in breeze and breaking into pale steam and a few cream petals. Cloth is now empty and lighter. Show physical follow-through, not floating decorative dots.",
+    "mode": "hero"
+  },
+  {
+    "cut": "V6_C024",
+    "role": "END",
+    "filename": "V6_C024_END.png",
+    "start_file": "V6_C024_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: End of same gentle upward tilt, more sky and less wall, three trails have dispersed into natural sky clouds, a few small petals far away. Same hills and sky lighting, no new magical objects or giant moon.",
+    "mode": "space"
+  },
+  {
+    "cut": "V6_C025",
+    "role": "END",
+    "filename": "V6_C025_END.png",
+    "start_file": "V6_C025_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same side close-up. Cloth has moved a little away from cheek; her eyes soften and she breaks into a natural small delighted laugh, teeth subtly visible. Same exact face, no face redesign, no glamour pose.",
+    "mode": "hero"
+  },
+  {
+    "cut": "V6_C027",
+    "role": "END",
+    "filename": "V6_C027_END.png",
+    "start_file": "V6_C027_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same shot. Jian has gently spread cuff and let it go; it remains OPEN and normal rather than curling. Her eyebrows relax and lips start a relieved smile. Emphasize proof of normal sleeve and face response, no cloud.",
+    "mode": "cast"
+  },
+  {
+    "cut": "V6_C028",
+    "role": "END",
+    "filename": "V6_C028_END.png",
+    "start_file": "V6_C028_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same camera. Jian now smiles BRIGHTLY with eyes and teeth, shoulders open, free hand raised in a warm goodbye wave. Coat remains on same forearm, normal cuff and thin silhouette. Not a portrait directed at viewer: gaze toward shopkeeper just right of camera.",
+    "mode": "cast"
+  },
+  {
+    "cut": "V6_C029",
+    "role": "END",
+    "filename": "V6_C029_END.png",
+    "start_file": "V6_C029_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same camera. Stamp now pressed onto blank receipt, small simple colored round mark on paper if visible, receipt still clipped. One readable tap, no new handwriting or symbols.",
+    "mode": "object"
+  },
+  {
+    "cut": "V6_C030",
+    "role": "END",
+    "filename": "V6_C030_END.png",
+    "start_file": "V6_C030_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same wide. Towel placed neatly on stack; heroine now rolls one sleeve back at forearm in ordinary work gesture, shoulders lightly rhythmic. Her design unchanged, focus on life and task rather than a full-body fashion pose.",
+    "mode": "hero"
+  },
+  {
+    "cut": "V6_C032",
+    "role": "END",
+    "filename": "V6_C032_END.png",
+    "start_file": "V6_C032_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same camera. His fingers stop on neat repaired seam, normal pocket stays at proper height. Eyes soften and genuine grateful smile spreads across his face, relieved shoulders. Same salt-pepper face, no different jacket or pocket side.",
+    "mode": "cast"
+  },
+  {
+    "cut": "V6_C033",
+    "role": "END",
+    "filename": "V6_C033_END.png",
+    "start_file": "V6_C033_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same two-shot. Dosik is slightly bowed with warm visible smile, heroine answers with small nod and lifted goodbye hand. Jacket hem/pocket normal, no floating clouds. Customer is main emotion, not camera-facing group portrait.",
+    "mode": "cast"
+  },
+  {
+    "cut": "V6_C035",
+    "role": "END",
+    "filename": "V6_C035_END.png",
+    "start_file": "V6_C035_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same rear camera. Her gaze turns back to uncompleted work, one hand reaches toward next garment, the other draws toward rumpled apron fold at waist. Subtle self-pressure, not a dramatic pose.",
+    "mode": "hero"
+  },
+  {
+    "cut": "V6_C036",
+    "role": "END",
+    "filename": "V6_C036_END.png",
+    "start_file": "V6_C036_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same framing. Fingers tighten slightly and cloud compacts, apron visibly puckers. A small downward shadow from her bob at frame top suggests she is now looking at her own hand; no face needed. Cloud is never a person restraint.",
+    "mode": "object"
+  },
+  {
+    "cut": "V6_C038",
+    "role": "END",
+    "filename": "V6_C038_END.png",
+    "start_file": "V6_C038_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same fixed camera and approved clothing. Her hand is now OPEN and has deliberately spread apron fold flat; cloud detaches into breeze and unravels above fabric, leaving smooth normal apron. No thread ball, ribbon or disappearing garment.",
+    "mode": "object"
+  },
+  {
+    "cut": "V6_C039",
+    "role": "END",
+    "filename": "V6_C039_END.png",
+    "start_file": "V6_C039_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same exact face and close framing. Eyes now OPEN naturally, jaw relaxed, lips form a quiet genuine relieved smile. Maintain same identity; warm small emotional change rather than seductive smile or new face.",
+    "mode": "hero"
+  },
+  {
+    "cut": "V6_C041",
+    "role": "END",
+    "filename": "V6_C041_END.png",
+    "start_file": "V6_C041_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same fixed shot. Minjae hands now support whole crisp shirt; heroine palms are EMPTY and relaxed, withdrawn 5cm. White collar remains straight and open, no magical residue.",
+    "mode": "object"
+  },
+  {
+    "cut": "V6_C042",
+    "role": "END",
+    "filename": "V6_C042_END.png",
+    "start_file": "V6_C042_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same camera. Collar remains normal after release, Minjae takes a breath, straightens shoulders and lifts eyes toward shopkeeper, confident warm smile beginning. No outfit change or sudden new hairstyle.",
+    "mode": "cast"
+  },
+  {
+    "cut": "V6_C043",
+    "role": "END",
+    "filename": "V6_C043_END.png",
+    "start_file": "V6_C043_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same wide camera. Minjae has turned back over shoulder with bright natural smile and RAISED goodbye hand, relaxed upright posture. Heroine tiny at counter reciprocates small wave. No one else, no ring on shirt.",
+    "mode": "cast"
+  },
+  {
+    "cut": "V6_C044",
+    "role": "END",
+    "filename": "V6_C044_END.png",
+    "start_file": "V6_C044_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same shot. Iron rests on stand, heroine empty hand has released handle and withdrawn. Next garment remains unworked to side. Real choice to stop rather than magic completing all tasks.",
+    "mode": "object"
+  },
+  {
+    "cut": "V6_C045",
+    "role": "END",
+    "filename": "V6_C045_END.png",
+    "start_file": "V6_C045_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same overhead. Cover cloth now rests neatly over BOTH baskets, hands relaxed at edges after placing. Work still visibly remains underneath, no disappearing baskets or new completed garments.",
+    "mode": "object"
+  },
+  {
+    "cut": "V6_C047",
+    "role": "END",
+    "filename": "V6_C047_END.png",
+    "start_file": "V6_C047_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same camera and set. Heroine now seated naturally on SAME chair, same cup held gently near chest, shoulders relaxed. Knees naturally together, no posing toward camera. No changed cup or extra tea setting.",
+    "mode": "hero"
+  },
+  {
+    "cut": "V6_C048",
+    "role": "END",
+    "filename": "V6_C048_END.png",
+    "start_file": "V6_C048_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same fixed street view. Minjae has walked a few steps farther down same lane, tote still same arm; Dosik small at stall turns to own daily task. No new crowd, no altered shops, no dramatic camera cut.",
+    "mode": "cast"
+  },
+  {
+    "cut": "V6_C049",
+    "role": "END",
+    "filename": "V6_C049_END.png",
+    "start_file": "V6_C049_START.png",
+    "prompt": "Edit the FIRST reference image, which is this exact cut START. Keep its camera, framing, set geometry, character identity, garments, prop counts and light unchanged unless the specified gentle camera tilt is required. Produce ONE SINGLE LANDSCAPE 16:9 frame, no panels or text. Use the SECOND reference only to preserve approved heroine face and clothing if she is visible. FINAL STATE: Same close camera. Cup raised to lips for one quiet sip, hands remain relaxed. Same cup decoration, no second cup, no new magic or face redesign.",
+    "mode": "object"
+  }
+]

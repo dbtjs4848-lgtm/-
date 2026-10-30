@@ -1,0 +1,531 @@
+[
+  {
+    "cut": "V6_C001",
+    "role": "START",
+    "filename": "V6_C001_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Extreme close insert of small brass entrance bell hanging on old wooden glass door, slightly tilted mid-swing. Only edge of gray cardigan sleeve and brown shoulder-bag strap entering lower edge, no faces. Ordinary Korean county-town laundry beyond softly blurred.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C002",
+    "role": "START",
+    "filename": "V6_C002_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Tight medium on worried adult customer JIAN, brown low ponytail, gray cardigan, pale blue shirt, brown shoulder bag. She holds an EMPTY NAVY COAT open over forearms, lining facing camera. A large cushion-sized dark slate-blue billowy CLOUD bulges out of lining, filling 25 percent of frame and visibly puffing the EMPTY coat. Both cuffs curl inward. Her tense eyes are partly visible at upper left. Only Jian, no shopkeeper.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C003",
+    "role": "START",
+    "filename": "V6_C003_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Close hands view across counter: JIAN left supports same EMPTY navy coat with large dark cloud IN lining. SEO-ON ivory sleeves right gently holds ONE sleeve cuff stretched OPEN with her fingertips. Faces excluded. Ready to release cuff, no string pulling it.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png",
+      "/workspace/-/biugo/final-v6/images/V6_C002_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C004",
+    "role": "START",
+    "filename": "V6_C004_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Eye-level medium TWO SHOT: Jian left, Seo-on right, both faces visible. Jian still grips end of EMPTY navy coat. Seo-on supports coat from below with both hands, calmly waiting. Large dark cloud bulges from coat lining, not attached to anyone skin. Customer anxious; heroine patient.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png",
+      "/workspace/-/biugo/final-v6/images/V6_C002_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C005",
+    "role": "START",
+    "filename": "V6_C005_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: OVER SEO-ON SHOULDER detail of EMPTY open navy coat on counter. Heroine bob and ivory shoulder only blurred foreground. Large rounded slate cloud visibly caught at lining folds pushes coat into impossible cushion-like thickness. One ivory-sleeved hand inspects seam. No small thread or loose fibers.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C006",
+    "role": "START",
+    "filename": "V6_C006_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Wide eye-level whole shop showing left entry, central wooden counter, right ironing station and small mint back door. Jian near left entry ready to leave WITHOUT coat; heroine behind counter about to move toward ironing station, already-received bulky navy coat on counter. People small; lived-in space main subject. Exactly TWO people only: tired Jian and working Seo-on. Jian still weary with closed mouth, not yet smiling brightly or waving. NO men in this early scene.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png",
+      "/workspace/-/biugo/final-v6/images/V6_C002_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C007",
+    "role": "START",
+    "filename": "V6_C007_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Long shot from street toward laundry entry. DOSIK adult Korean market vendor age52, short salt-pepper hair, beige tee, gray-brown work trousers, sturdy shoes, small market basket. He pauses just OUTSIDE door supporting EMPTY OLIVE work jacket on hanger with both hands. Its pocket on VIEWER RIGHT droops 25cm under large rounded slate cloud protruding halfway out, jacket hem pulled asymmetrically down. Heroine tiny background working.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/images/V6_C007_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C008",
+    "role": "START",
+    "filename": "V6_C008_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Medium on DOSIK at counter, face and EMPTY OLIVE jacket both clear. He lifts stretched VIEWER-RIGHT pocket and protruding large dark cloud with free hand to nearly normal height, looking tired and puzzled. Jacket on hanger in other hand, no stones or actual contents. ONLY Dosik is visible, no other person. No heroine or other customers in background.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/images/V6_C007_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C009",
+    "role": "START",
+    "filename": "V6_C009_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Hands-height insert: adult male MINJAE in navy cardigan/gray tee takes EMPTY WHITE shirt from plain canvas tote. A THICK slate CLOUD RING surrounds empty collar, about 8cm thick, visibly billowy not rope; ring has a relatively wide opening and collar is partly spread. No person neck in shirt; only hands and shirt. ONLY Minjae is visible, no other person in background.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/images/V6_C010_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C010",
+    "role": "START",
+    "filename": "V6_C010_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Close portrait of adult MINJAE age23, neat short black side-part hair, navy cardigan gray tee, tense lips and downcast eyes. Lower edge shows white shirt collar squeezed by large slate cloud ring. Same face as young man bottom row of anomaly reference. No heroine. ONLY Minjae is visible, no other person in background.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/images/V6_C010_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C011",
+    "role": "START",
+    "filename": "V6_C011_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Medium OVER MINJAE SHOULDER toward Seo-on behind counter, SAME approved heroine face and bob. She cups EMPTY white shirt from below, gently nodding; Minjae hands in foreground still hold shirt edges. Large slate cloud ring around empty collar stays visible.",
+    "mode": "hero",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png",
+      "/workspace/-/biugo/final-v6/images/V6_C010_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C012",
+    "role": "START",
+    "filename": "V6_C012_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: TRUE VERTICAL OVERHEAD of worktable and adjacent garment stand with THREE separate EMPTY garments: bulky navy coat with large cloud in lining at left; olive jacket with cloud dragging viewer-right pocket at upper right; white shirt with thick cloud ring squeezing collar lower right. No faces or full people. Three distinct garment colors, exactly one of each.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C013",
+    "role": "START",
+    "filename": "V6_C013_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Eye-level side medium-long of approved heroine actually WORKING at ironing station. White shirt with cloud ring at collar lies on board, heroine places one hand beneath collar gently, other hand reaches toward ordinary iron on stand. Same exact outfit and natural proportions, active task not camera pose.",
+    "mode": "hero",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C014",
+    "role": "START",
+    "filename": "V6_C014_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Close insert of ivory-sleeved HANDS, iron and EMPTY white shirt collar. Thick dark slate cloud RING is closed around collar. Iron touches START of pressing path; other hand supports fabric. NO faces. Distinguish dark volumetric ring from fine pale normal steam.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C015",
+    "role": "START",
+    "filename": "V6_C015_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Detail of heroine own charcoal waist apron and ONE hand, ivory sleeve. Her fingertips have begun gripping a small apron fold. A clearly rounded dark slate cloud about two fists in size bulges from the INNER crease, contrasting against ivory sleeve. No faces or thighs-focused framing; waist task insert.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C016",
+    "role": "START",
+    "filename": "V6_C016_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Quiet still life of ONE floral tea cup on laundry window sill, barely any pale normal steam, simple blurred wall clock and uncompleted work in background. No people, no hand, no magical dark clouds in this frame.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C017",
+    "role": "START",
+    "filename": "V6_C017_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Tight insert of ivory-sleeved hand pinching OPEN ordinary wooden clothes peg above freshly straightened WHITE shirt collar on short indoor rail. Collar normal, NO cloud ring on shirt. Released dark ring-cloud rests softly on white collection sheet in background.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C018",
+    "role": "START",
+    "filename": "V6_C018_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: True overhead close of heroine HANDS repairing VIEWER-RIGHT pocket of EMPTY olive jacket lying flat. Large slate cloud still weighs in pocket; one hand SUPPORTS pocket fabric, other holds needle at final loose stitch. No faces, practical sewing, one needle.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C019",
+    "role": "START",
+    "filename": "V6_C019_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Side medium of heroine ironing EMPTY olive jacket on board, face and task visible. VIEWER-RIGHT pocket still stretched under large rounded slate cloud; iron touches fabric beside pocket, not cloud. One hand supports pocket.",
+    "mode": "hero",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C020",
+    "role": "START",
+    "filename": "V6_C020_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Medium on heroine hands and EMPTY NAVY COAT lining on wooden counter; face secondary upper edge. Cushion-sized slate cloud still bulges out of lining. She places both hands at lining folds ready to spread. Beside it WHITE COLLECTION SHEET holds exactly TWO previously released clouds: loose ring and round pocket cloud.",
+    "mode": "hero",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C021",
+    "role": "START",
+    "filename": "V6_C021_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Wide of small walled back courtyard threshold. Heroine stands holding WHITE SHEET like shallow carrying sling containing exactly THREE dark slate rounded masses with readable silhouettes. SAME approved short bob and full outfit. A SINGLE normal NAVY coat hangs on clothesline beside ONE white sheet, low walls, real houses/hills. No floating architecture.",
+    "mode": "hero",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C022",
+    "role": "START",
+    "filename": "V6_C022_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Side medium-long in same small courtyard. Heroine holds white collection cloth ends with both hands, fabric gathered like a shallow sling, THREE rounded slate clouds visible inside. She is starting to spread arms; real work motion, no model stance.",
+    "mode": "hero",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C023",
+    "role": "START",
+    "filename": "V6_C023_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Wide courtyard in same axis as prior cloth shot. Heroine holds opened WHITE collection cloth with THREE defined dark clouds on fabric, poised for one practical shake. Navy coat hanging in background is flat normal, only one coat.",
+    "mode": "hero",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C024",
+    "role": "START",
+    "filename": "V6_C024_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Low courtyard wall and local roofs lower frame, spacious sky above. Three released pale cloud trails and few petals rise just above wall, still recognizably THREE origins. No people. Start of a gentle upward camera tilt.",
+    "mode": "space",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C025",
+    "role": "START",
+    "filename": "V6_C025_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Close SIDE portrait of approved heroine, bob and earrings faithful, not looking at camera. A corner of white cloth brushes near her cheek in breeze; eyes gently squint in spontaneous surprised reaction, mouth neutral about to laugh.",
+    "mode": "hero",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C026",
+    "role": "START",
+    "filename": "V6_C026_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Frame-within-frame through gap between normal hanging NAVY coat and flat white laundry sheet, bright warm light fills EMPTY gap. Heroine small at mint doorway, pausing on threshold. Low courtyard wall, ordinary roofs, no dark clouds in garments.",
+    "mode": "space",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C027",
+    "role": "START",
+    "filename": "V6_C027_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Over SEO-ON SHOULDER medium on JIAN back at counter. Jian touches newly returned NORMAL NAVY coat sleeve on forearm; cuff lies open, lining flat, no clouds. Her face is surprised and still tentative, shoulders partly tense. Heroine only foreground shoulder.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png",
+      "/workspace/-/biugo/final-v6/images/V6_C002_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C028",
+    "role": "START",
+    "filename": "V6_C028_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Medium of JIAN facing shopkeeper slightly offscreen, normal navy coat draped loosely over ONE arm, other hand lowered. Soft relieved smile beginning, shoulders no longer slumped. Gray cardigan blue shirt brown bag, exact same adult customer.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/images/V6_C002_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C029",
+    "role": "START",
+    "filename": "V6_C029_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Tight overhead insert of heroine ivory-sleeved hands at desk, blank garment receipt clipped beside finished clothes, rubber stamp lifted a few centimeters above paper ready to tap. No faces, no legible text, no magic.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C030",
+    "role": "START",
+    "filename": "V6_C030_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Fixed shop WIDE, heroine small behind worktable holding a folded towel edge above a modest stack, preparing to place it. Completed clothing on rail, empty working space, simple fan and mint wall. No customer, no floating cloud in foreground.",
+    "mode": "hero",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C031",
+    "role": "START",
+    "filename": "V6_C031_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Medium outside entry of DOSIK returning, same salt-pepper hair beige tee and market basket. His OLIVE jacket NOT yet in his hands, still in shop. He pauses and glances up at natural sky, tired face slightly more hopeful. Heroine not in shot. ONLY Dosik is visible, no other person. No heroine or other customers in background.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/images/V6_C007_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C032",
+    "role": "START",
+    "filename": "V6_C032_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Medium framing DOSIK FACE and EMPTY OLIVE jacket together, so pocket and eyes both visible. He holds normal jacket on hanger with one hand, fingertips of other touch SAME repaired VIEWER-RIGHT pocket. Pocket and hem normal, NO clouds. His face curious, not yet smiling broadly. ONLY Dosik is visible, no other person. No heroine or other customers in background.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/images/V6_C007_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C033",
+    "role": "START",
+    "filename": "V6_C033_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Eye-level counter TWO-SHOT, DOSIK left with normal olive jacket on forearm, Seo-on right attentive. Dosik begins small grateful nod, lips smile, heroine hands at rest. No supernatural effects.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png",
+      "/workspace/-/biugo/final-v6/images/V6_C007_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C034",
+    "role": "START",
+    "filename": "V6_C034_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Empty simple chair under open laundry window, ONE cooled tea cup on sill, thin ivory curtain gently lifted. Warm light on empty seat. No person, no magic, no new objects. Quiet breathing space after customer departure.",
+    "mode": "space",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C035",
+    "role": "START",
+    "filename": "V6_C035_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Medium OVER HEROINE BACK toward remaining TWO work baskets and blank receipts at counter, empty chair visible left background. She briefly glances toward chair, one hand not yet reaching work. Same bob/outfit, no model-facing gaze.",
+    "mode": "hero",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C036",
+    "role": "START",
+    "filename": "V6_C036_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Tight natural HAND/APRON insert matching cut15, ivory sleeve and charcoal apron. Hand grips same inner fold; a two-fist-sized rounded dark slate cloud protrudes distinctly from crease, no ribbon or thread. Hand is tense but not fully squeezed.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C037",
+    "role": "START",
+    "filename": "V6_C037_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: From heroine viewpoint toward laundry doorway, adult MINJAE returning WITHOUT shirt yet, navy cardigan gray tee plain canvas tote at side. He kindly holds glass door OPEN with one hand for busy shopkeeper, eyes toward her, gentle helpful expression. Thin curtain responds to breeze. No ring or cloud on his body. ONLY Minjae is visible, no other person in background.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/images/V6_C010_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C038",
+    "role": "START",
+    "filename": "V6_C038_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Exact same hands-and-apron composition as cut36. Heroine fingers still tightly grip folded apron; two-fist-sized rounded dark slate cloud clearly attached to INNER crease. Other fingertips ready to deliberately smooth fabric.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C039",
+    "role": "START",
+    "filename": "V6_C039_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Eye-level CLOSE FACE portrait of approved heroine, exact soft cheeks, natural dark eyes, chin-length black bob. Eyes gently CLOSED, lips parted for a slow breath out, jaw still a little tense. Gaze direction toward open doorway, not viewer. Only face and shoulders.",
+    "mode": "hero",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C040",
+    "role": "START",
+    "filename": "V6_C040_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Wide real small Korean town rooftops and low hills beneath broad gentle blue-peach sky. One small pale steam trail dissolves into natural cloud, no people, no dark masses, no fantasy city. Quiet airy negative space.",
+    "mode": "space",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C041",
+    "role": "START",
+    "filename": "V6_C041_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Hands-height POV from heroine side across counter. Her ivory sleeves support crisp NORMAL WHITE folded shirt with fully OPEN straight collar. MINJAE navy-sleeved hands open beneath ready to receive. No cloud ring, no stain, no text.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png",
+      "/workspace/-/biugo/final-v6/images/V6_C010_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C042",
+    "role": "START",
+    "filename": "V6_C042_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Medium CLOSE of MINJAE holding normal white shirt loosely, trying collar gently and looking down with cautious surprise. Still slightly rounded shoulders but no cloud ring or puckering in garment. Same young adult male face, navy cardigan gray tee. ONLY Minjae is visible, no other person in background.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/images/V6_C010_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C043",
+    "role": "START",
+    "filename": "V6_C043_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Long shot from inside toward door. MINJAE outside threshold in three-quarter back view, normal white shirt in canvas tote, his free arm lowered, about to turn back. Heroine small at right counter, not center.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png",
+      "/workspace/-/biugo/final-v6/images/V6_C010_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C044",
+    "role": "START",
+    "filename": "V6_C044_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Close of iron and heroine hand, iron held just above its practical stand at worktable, ready to set down. No faces, no cloud, light on ordinary metal.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C045",
+    "role": "START",
+    "filename": "V6_C045_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: TRUE OVERHEAD of TWO uncompleted work baskets. Ivory-sleeved hands hold clean cover cloth just above them, other tabletop mostly empty. No faces, no flowers, no magic.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C046",
+    "role": "START",
+    "filename": "V6_C046_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Side medium-long of heroine at open door after work, natural relieved resting posture, hands loosely down, relaxed shoulders, eyes toward street. Same approved face, black bob, ivory knit, charcoal apron now smooth with NO cloud, teal skirt and boots. Chair and curtain nearby. Not a fashion pose.",
+    "mode": "hero",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C047",
+    "role": "START",
+    "filename": "V6_C047_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Fixed side WIDE including worktable, window sill and nearby chair. Heroine carries ONE floral tea cup with both hands toward chair, still standing in front of seat. Apron normal smooth. No magic.",
+    "mode": "hero",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C048",
+    "role": "START",
+    "filename": "V6_C048_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Wide real county-town lane outside shop, MINJAE in middle distance walking away with white-shirt canvas tote, shoulders relaxed, face seen only three-quarter back. Far market stall has DOSIK small in beige tee with normal olive jacket over forearm. No heroine in foreground.",
+    "mode": "cast",
+    "references": [
+      "/workspace/-/biugo/final-v6/images/V6_C010_START.png",
+      "/workspace/-/biugo/final-v6/images/V6_C007_START.png"
+    ]
+  },
+  {
+    "cut": "V6_C049",
+    "role": "START",
+    "filename": "V6_C049_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Intimate close of heroine HANDS and ONE floral tea cup, lower edge of chin only, seated beside window. Cup held just below lips, fingers relaxed. Tiny pale ordinary tea steam only, no dark anomaly.",
+    "mode": "object",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C050",
+    "role": "START",
+    "filename": "V6_C050_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Natural SIDE close portrait of approved heroine seated by window, exact bob/face/earrings. Cup on sill, eyes toward street, genuine small enduring contented smile, shoulders relaxed. No camera-facing head tilt, no anomaly or flowers.",
+    "mode": "hero",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C051",
+    "role": "START",
+    "filename": "V6_C051_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Wide interior from beyond worktable. Covered TWO baskets in foreground, now empty work area. Heroine very SMALL seated by window with tea, curtain catches soft breeze. Ordinary tools quiet, no dark clouds anywhere.",
+    "mode": "space",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  },
+  {
+    "cut": "V6_C052",
+    "role": "START",
+    "filename": "V6_C052_START.png",
+    "prompt": "Create ONE SINGLE cinematic landscape 16:9 illustration, no panels, no grid, no text or subtitles. Warm semi-realistic Korean illustrated rendering matching the references, ordinary small Korean county-town laundry with worn mint walls, wooden counter, practical ironing tools, glass entrance, low concrete shops and hills outside. Consistent warm late golden-hour light. Reference images define only the stated characters and style; do not copy unwanted people or poses. Seo-on, WHEN present, is the same approved adult black-bob Korean shopkeeper in ivory wrap knit, short charcoal apron, deep-teal A-line skirt and brown ankle boots, same face and natural proportions. Include ONLY people explicitly named in SCENE. Large dark slate-blue rounded magical clouds only when specified. SCENE: Final wide exterior of SAME low small-town laundry, warm light through glass, heroine SMALL seated visible inside, curtain and hanging fabric lightly moving in evening breeze. Bicycle and low concrete shops, power poles and low hills, no skyline, no big magic, no titles.",
+    "mode": "space",
+    "references": [
+      "/workspace/-/biugo/final-v6/reference/heroine-final.png"
+    ]
+  }
+]
