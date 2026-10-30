@@ -1,0 +1,74 @@
+{
+  "version": "test-v1",
+  "status": "test_images_complete",
+  "character_approved": false,
+  "full_storyboard_images_generated": false,
+  "scope": "커플 디자인 제안 1장 + 게임/쇼핑/낚시 역할 역전 전후 6장",
+  "planned_files": [
+    "CHARACTERS_PROPOSAL.png",
+    "GAME_BEFORE.png",
+    "GAME_AFTER.png",
+    "SHOP_BEFORE.png",
+    "SHOP_AFTER.png",
+    "FISH_BEFORE.png",
+    "FISH_AFTER.png"
+  ],
+  "note": "BEFORE/AFTER는 꽁트의 입장 역전 테스트이며 71컷 각각의 START/END 키프레임이 아닙니다.",
+  "images": [
+    {
+      "file": "CHARACTERS_PROPOSAL.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1813397,
+      "sha256": "96fb82b3323cf538138741fe918a0e488cc98e48e03bf6e36400c07dfef8efd8"
+    },
+    {
+      "file": "GAME_BEFORE.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2300813,
+      "sha256": "81801eb035821df048cec64c87f9a606a89f0885a3875421e8b5b2b1f6df1497"
+    },
+    {
+      "file": "GAME_AFTER.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2274565,
+      "sha256": "7e829f429e861f075fda682e14b5da6141e40499b88786fdbda4b57bcecb47a3"
+    },
+    {
+      "file": "SHOP_BEFORE.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2354066,
+      "sha256": "235fd1bb27481e218981b4fa1277f7b0f4ad3d290bbd516651903b2af554fba7"
+    },
+    {
+      "file": "SHOP_AFTER.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2245053,
+      "sha256": "2b400e16db3905db359d1d3dc94007e868171fc7bbac54fc104dae66056fc9c8"
+    },
+    {
+      "file": "FISH_BEFORE.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3077767,
+      "sha256": "23dd4f4f3ccd00f767a6f42c8b857c28c37e7a724c7d3ff19e716eb2eac5e35d"
+    },
+    {
+      "file": "FISH_AFTER.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3009332,
+      "sha256": "cbdf55eebc988c3d8258cdc3d237ba557400bf49e3006706ad33399c0abc4574"
+    }
+  ],
+  "validation": {
+    "png_integrity": true,
+    "unique_images": 7,
+    "landscape_ratio_checked": true,
+    "human_character_approval": false
+  }
+}
