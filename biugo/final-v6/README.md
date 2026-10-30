@@ -29,3 +29,11 @@ HTML 갤러리를 열 필요 없이 아래 Markdown 페이지에서 시작·종�
 자동 재생 HTML은 저장소를 내려받은 뒤 final-v6/player.html을 브라우저로 열어 사용합니다. GitHub의 HTML 소스 화면은 재생 페이지가 아닙니다.
 
 대용량 전체 ZIP은 GitHub 단일 파일 제한 때문에 구간별 ZIP 5개로 제공합니다. 이전 제작 시안은 클라우드 작업공간에 보존했습니다.
+
+## 플로바 첨부용 대응표
+
+- [TXT 다운로드](cut-files-flova.txt)
+- [PDF 다운로드](cut-files-flova.pdf)
+- [Markdown 보기](cut-files-flova.md)
+
+CSV와 동일한 52컷 시간·시작/종료 파일명·공용 여부에 장면 및 동작 지시를 추가했습니다. TXT는 UTF-8입니다.
