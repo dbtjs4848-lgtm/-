@@ -1,0 +1,855 @@
+취미 활동은 보장해 줍쇼 · 본편 이미지 대응표
+71컷 / START 71장 + END 63장 = 134장 / 공용 8컷
+시간은 사용자 SRT 기반이며 최종 음악 비트 대조는 편집 단계에서 수행합니다.
+
+H001 · 평범한 저녁
+시간: 00:00.000–00:03.000 / 3.000초
+START: H001_START.png
+END: H001_END.png
+카메라: 테이블 높이 전진 이동
+장면: 여자는 소파에서 휴대폰, 남자는 TV 앞 게임 준비. 서로 다른 쪽에 있지만 발끝은 살짝 닿아 있다.
+웃음·감정: 둘이 이미 편한 연인임을 먼저 전달
+연결: 남자 좌측·여자 우측의 거실 축 확립
+생성 START 상태: Wide ordinary apartment living room. Man LEFT on sofa leaning forward with game controller; woman RIGHT reclining looking at phone. Low table with SECOND unused controller, chips bowl. TV cropped extremeLEFT. Warm evening. Both full seated figures, natural neutral differing interests.
+생성 END 상태: Wide ordinary apartment living room. Man LEFT on sofa leaning forward with game controller; woman RIGHT reclining looking at phone. Low table with SECOND unused controller, chips bowl. TV cropped extremeLEFT. Warm evening. Both full seated figures, natural neutral differing interests. CAMERA DESTINATION: 탁자 전경을 지나 소파의 두 사람으로 천천히 30cm 접근. 마지막 0.6초 멈춤.
+탁자 전경을 지나 소파의 두 사람으로 천천히 30cm 접근. 마지막 0.6초 멈춤.
+
+H002 · 게임에는 관심 없음
+시간: 00:03.000–00:06.000 / 3.000초
+START: H002_START.png
+END: H002_END.png
+카메라: 패드 높이 손 인서트
+장면: 남자가 여분 패드를 여자 쪽으로 밀자 여자는 보지도 않고 쿠션을 그 자리에 놓는다.
+웃음·감정: 거절이 사납지 않고 건성
+연결: 패드 이동→쿠션 착지로 첫 작은 펀치
+생성 START 상태: EXTREME CLOSE hands at table height, NO FACES. Sage-sleeved male hand slides unused controller toward coral-sleeved woman's side, cream cushion suspended just above table beside it. Her other hand holds phone cropped edge.
+생성 END 상태: Same hands insert. Cream cushion now set down in offered spot; offered controller gently nudged back toward man. Woman's hand withdraws. No extra controller or hands.
+카메라 잠금. 패드가 밀려오고 쿠션으로 거절하는 동작을 끝까지 보인다.
+
+H003 · 쇼핑에도 관심 없음
+시간: 00:06.000–00:09.000 / 3.000초
+START: H003_START.png
+END: H003_END.png
+카메라: 벤치에서 옷으로 짧은 팬
+장면: 다른 날. 여자가 옷 두 벌을 들어 보이는데 남자는 고개만 끄덕이다 졸아 버린다.
+웃음·감정: 게임 때와 무관심 역할을 뒤집음
+연결: 여자 손의 옷→앞 컷 쿠션과 크기 매치
+생성 START 상태: Wide straight-on shop. Bench LEFT, clothes rail RIGHT. Man LEFT seated in navy overshirt/white tee/dark trousers/white sneakers, eyelids heavy but still open. Woman RIGHT standing beige cardigan coral tee skinnyjeans cream sneakers holding TWO jackets on hangers, cream and olive, looking at them.
+생성 END 상태: Same locked wide. Man LEFT now asleep head drooped, EMPTY hands on lap. Woman RIGHT still happily compares same TWO jackets. Positions never change. CAMERA DESTINATION: 초반 남주 무거운 눈꺼풀을 보다가 옷을 든 여주 쪽으로 12도 팬. 졸기 직전 잠깐 멈춤.
+초반 남주 무거운 눈꺼풀을 보다가 옷을 든 여주 쪽으로 12도 팬. 졸기 직전 잠깐 멈춤.
+
+H004 · 낚시를 왜 해
+시간: 00:09.000–00:12.000 / 3.000초
+START: H004_START.png
+END: H004_END.png
+카메라: 강변 측면 와이드 / 20cm 횡이동
+장면: 낚시 티저: 여주는 지루하고 남주는 평온하다. 찌는 이 와이드에 보이지 않는다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 낚시 도입은 예고편; 뒤의 본 장면에서 같은 옷·장소 회수
+생성 START 상태: 남주 왼쪽 여주 오른쪽 두 의자. 가는 민물 민장대 한 대가 V 받침에 걸쳐 물 쪽으로 뻗는다. 살림망 몸통은 물속에 잠겨 있다.
+생성 END 상태: 여주가 작게 한숨 쉬며 턱을 괸다. 남주는 강물을 본다. 동일 장비 배치.
+강변 측면 와이드 / 20cm 횡이동
+
+H005 · 누가 먼저 빠질까
+시간: 00:12.000–00:15.233 / 3.233초
+START: H005_START.png
+END: H005_END.png
+카메라: 문틀 너머 느린 전진
+장면: 처음 거실로 복귀. 남자가 물을 가지러 나가고 패드를 소파에 둔다. 여자 눈만 패드 쪽으로 움직인다.
+웃음·감정: 대사는 없이 호기심의 씨앗
+연결: 초반 세 장소는 날이 다른 짧은 예고 몽타주; 여기부터 본 이야기
+생성 START 상태: Wide from interior doorframe, man LEFT half-standing beside sofa holding empty water glass preparing to leave but STILL IN ROOM, woman RIGHT reclining phoneinhand, eyes beginning to glance at controller on sofa cushion between them. Only two people.
+생성 END 상태: Same frame. Man still standing briefly next to sofa holding glass. Woman eyes now fixed on controller, phone lowered slightly, no hand grabs it yet. This is anticipation before affectionate sendoff cut6, no repeated departure. CAMERA DESTINATION: 남주가 일어나는 동안 20cm 전진. 끝에서는 패드를 보는 여주와 빈자리를 함께 둔다.
+남주가 일어나는 동안 20cm 전진. 끝에서는 패드를 보는 여주와 빈자리를 함께 둔다.
+
+H006 · 좋아서 만난 사이
+시간: 00:15.233–00:20.733 / 5.500초
+START: H006_START.png
+END: H006_END.png
+카메라: 두 사람 중심 소형 아크
+장면: 남자가 출발 전 여자 머리에 붙은 작은 먼지를 떼 준다. 여자는 무심한 척 웃고 다시 휴대폰을 본다.
+웃음·감정: 따뜻한 관계를 확보
+연결: 친밀감은 짧게; 화면 응시 금지
+생성 START 상태: SIDE MEDIUM TWO-SHOT. Man LEFT standing beside sofa near seated womanRIGHT, one free hand near tiny lint speck on her BLACK BOB; other holds waterglass. She looks up mildly amused, phone rests on her lap.
+생성 END 상태: Same frame. Tiny lint removed, man free hand withdrawn with speck on fingertip. Woman soft affectionate smile, shoulders relaxed. Only small gesture, no face redesign. CAMERA DESTINATION: 먼지를 떼는 손을 가리지 않게 동일 축 안에서 8도만 옆으로 돈다. 손을 뗄 때 정지.
+먼지를 떼는 손을 가리지 않게 동일 축 안에서 8도만 옆으로 돈다. 손을 뗄 때 정지.
+
+H007 · 같을 수는 없잖아
+시간: 00:20.733–00:25.833 / 5.100초
+START: H007_START.png
+END: H007_END.png
+카메라: 어깨 너머 전진
+장면: 빈자리와 놓인 패드를 보던 여자가 TV를 한 번, 문을 한 번 확인한다. 손끝이 패드에 다가간다.
+웃음·감정: 몰래 만져 보는 망설임
+연결: 휴대폰 내려놓기→손 이동을 한 축에서 연결
+생성 START 상태: Woman OTS, BLACK BOB only shoulder/back edge, looking across sofa vacant LEFT seat and ONE controller on adjacent cushion. Phone laid on RIGHT table. No man visible; he's offscreen fetching water. LowTVglow.
+생성 END 상태: Same OTS. Woman's hand has reached controller, fingertips just touch one grip. Vacant LEFT seat unchanged. No new people, no controller already in hand. CAMERA DESTINATION: 여주 어깨를 전경에 두고 패드 쪽으로 25cm 접근. 문을 보는 시선이 끝나면 멈춤.
+여주 어깨를 전경에 두고 패드 쪽으로 25cm 접근. 문을 보는 시선이 끝나면 멈춤.
+
+H008 · 한 번만
+시간: 00:25.833–00:28.133 / 2.300초
+START: H008_START.png
+END: H008_END.png
+카메라: 손 익스트림 클로즈업
+장면: 검지 하나로 버튼을 누른다. 화면 속 단순 블록 캐릭터가 엉뚱한 방향으로 점프한다.
+웃음·감정: 보기보다 잘 안 되는 첫 시도
+연결: 실존 게임·브랜드 없이 색 블록 게임
+생성 START 상태: MACRO HANDS ONLY. White black-trim controller on sofa cushion, adult female finger poised over a button, coral sleeve. Blurred TV edge with abstract blockgame farbackground, no text.
+생성 END 상태: Same macro. Finger presses button inward. Controller stays supported by cushion, other buttons unchanged. No new hands or face.
+카메라 잠금. 망설이는 손가락과 버튼을 누르는 순간만 보여 준다.
+
+H009 · 시시한 척
+시간: 00:28.133–00:31.200 / 3.067초
+START: H009_START.png
+END: H009_END.png
+카메라: 미세 푸시인 후 정지
+장면: 입꼬리만 비웃다가 화면 실패에 눈썹이 올라간다. 패드를 양손으로 고쳐 쥔다.
+웃음·감정: 무관심→오기
+연결: 표정 변화 후 바로 자르지 않고 짧은 반 박자 유지
+생성 START 상태: TIGHT WOMAN FACE/SHOULDERS near TV camera, glossy BLACK BOB, same approved soft Korean face. Brows relaxed, tiny dismissive smirk, eyes toward screenLEFT. Controller edge at bottom grasped loosely.
+생성 END 상태: Same exact close-up. Eyebrows now raised with competitive surprise, lips parted in 'wait', grip firmer at loweredge. Identity/face proportions unchanged, no huge anime eyes. CAMERA DESTINATION: 시시한 표정에서 흥미가 생기는 순간까지 15cm 접근. 마지막 0.5초 표정 유지.
+시시한 표정에서 흥미가 생기는 순간까지 15cm 접근. 마지막 0.5초 표정 유지.
+
+H010 · 벌써 진심
+시간: 00:31.200–00:34.700 / 3.500초
+START: H010_START.png
+END: H010_END.png
+카메라: 앉은 자세를 드러내는 풀백
+장면: 기대 앉았던 몸이 앞으로 쏠린다. 발이 바닥에 단단히 붙고 쿠션이 옆으로 밀려난다.
+웃음·감정: 몸이 마음보다 먼저 몰입
+연결: 자세의 전후 차이를 읽게 카메라 고정
+생성 START 상태: WIDE SIDE SOLO WOMAN. On sofa RIGHT she reclines with controller BOTH hands, TVLEFT, empty seatLEFT, cushion besideher. Phone face down tableRIGHT, second controller tableCENTER. CAMERA REVISION: Edit this approved Korean webtoon frame, preserve exact identities/style/scene/wardrobe. Single landscape16:9 image, no panels/text. Reframe the SAME scene as a tighter MEDIUM shot of woman playing, face and controller and upper torso clearly readable. Keep body leaning forward and exact expression/props. This is the START of a pullback ending on existing full figure wide. Do not alter pose.
+생성 END 상태: Same fixedwide. She has moved torso toward TV, feet planted, elbows near knees, lively intense concentration. Cushion pushed sideways on SAME sofa. Empty LEFT seat remains; no man. CAMERA DESTINATION: 얼굴과 패드가 읽히는 미디엄에서 40cm 후퇴해 몸을 기울인 자세와 다리를 드러낸다.
+얼굴과 패드가 읽히는 미디엄에서 40cm 후퇴해 몸을 기울인 자세와 다리를 드러낸다.
+
+H011 · 귀환
+시간: 00:34.700–00:36.766 / 2.066초
+START: H011_START.png
+END: H011_START.png (START 공용)
+카메라: 방문 너머 관찰 롱숏
+장면: 물컵 든 남자가 돌아오다 멈춘다. 안쪽 여자는 TV 가까이 바짝 앉아 있다.
+웃음·감정: 관객과 남자가 동시에 발견
+연결: 남자 어깨를 통해 여자 행동을 보여 줌
+생성 START 상태: LONG SHOT THROUGH DOOR. Returning man appears LARGE foreground LEFT back/three-quarter holding waterglass, freezes watching small background woman on sofaRIGHT leaning forwardgaming. One continuous room, TVLEFT, no extra faces.
+생성 END 상태: LONG SHOT THROUGH DOOR. Returning man appears LARGE foreground LEFT back/three-quarter holding waterglass, freezes watching small background woman on sofaRIGHT leaning forwardgaming. One continuous room, TVLEFT, no extra faces.
+문틀·남주 전경·여주 배치를 고정하고 짧게 관찰한다.
+
+H012 · 옷 한 벌은 기분 전환
+시간: 00:36.766–00:39.400 / 2.634초
+START: H012_START.png
+END: H012_END.png
+카메라: 옷걸이 전경 측면 이동
+장면: 다음 날. 여자가 새 재킷을 걸쳐 보고 기분 좋게 회전한다. 남자는 벤치에서 휴대폰을 본다.
+웃음·감정: 가사 속 자기 취미의 즐거움
+연결: 쇼핑 장소와 옷은 도입 예고와 일치
+생성 START 상태: Shop mirror-side MEDIUM woman in beige cardigan over coraltee skinnyjeans with CREAM JACKET draped neatly on shoulders, starting to look at mirrorRIGHT. Man small seatedLEFTbackground awake lookingphone. Olivejacket railRIGHT.
+생성 END 상태: Same medium. Woman has turned shoulders slightly showing jacket to mirror, genuine pleased smallsmile. Man still backgroundLEFTphone. No catwalk glamour pose or wardrobe changes. CAMERA DESTINATION: 행거 끝을 전경으로 두고 30cm 횡이동. 옷을 고르는 여주에서 끝낸다.
+행거 끝을 전경으로 두고 30cm 횡이동. 옷을 고르는 여주에서 끝낸다.
+
+H013 · 게임 한 판은?
+시간: 00:39.400–00:42.033 / 2.633초
+START: H013_START.png
+END: H013_END.png
+카메라: 게임 투숏 10도 팬
+장면: 앞 저녁으로 돌아와 남자가 손을 내밀지만 여자는 패드를 몸 가까이 당긴다. 자리를 되찾으려던 남자 손이 허공에 남는다.
+웃음·감정: 이제 여자가 게임을 안 놓음
+연결: 시간 교차는 두 장소 고정 의상으로 구분
+생성 START 상태: MEDIUM TWO SHOT. Man LEFT standing/seated sofaedge reaches EMPTY palm toward controller in woman's BOTH handsRIGHT. Woman leans toward TVLEFT, competitive eyes. Waterglass safelytableLEFT.
+생성 END 상태: Same camera. Woman draws controller closer to torso without releasing, shoulders protective; man's outstretched hand is left EMPTY in air. He looks at her surprised. No controller duplicated. CAMERA DESTINATION: 화면 왼쪽 TV 방향에서 두 사람 쪽으로 짧게 팬. 여주 몰입과 남주 기다림이 함께 보이면 정지.
+화면 왼쪽 TV 방향에서 두 사람 쪽으로 짧게 팬. 여주 몰입과 남주 기다림이 함께 보이면 정지.
+
+H014 · 카페는 힐링
+시간: 00:42.033–00:44.700 / 2.667초
+START: H014_START.png
+END: H014_END.png
+카메라: 카페 창틀 따라 횡이동
+장면: 쇼핑 날 카페. 여자는 음료 사진을 오래 찍고 남자는 컵을 잡은 손을 들고 기다린다.
+웃음·감정: 말없이 기다리는 불편한 손
+연결: 사진 구도에 남자 손이 조금씩 들어와 여자가 부드럽게 밀어냄
+생성 START 상태: SIDE TWO SHOT cafe daylight. Woman RIGHT with phone BOTHhands aiming at ONE latte manLEFT holds carefully near tabletop, waitingexpression. Shopping outfits, two drinks total, no other people.
+생성 END 상태: Same camera. Woman still framing photo, gently gestures his cup hand a few cm out of frame with onefreehand; he holds cup steady, patient slightly strained eyebrow. Cup stays in HIS hand notfloating. CAMERA DESTINATION: 창틀 전경을 지나 25cm 옆으로 이동. 컵을 든 두 사람을 가리지 않는다.
+창틀 전경을 지나 25cm 옆으로 이동. 컵을 든 두 사람을 가리지 않는다.
+
+H015 · 친구 만나면 또 놀러?
+시간: 00:44.700–00:47.333 / 2.633초
+START: H015_START.png
+END: H015_START.png (START 공용)
+카메라: 휴대폰에서 듣는 얼굴로 초점 이동
+장면: 남자 휴대폰에 친구 셋의 게임 초대 아이콘. 남자 미소를 여자가 슬쩍 보고, 자기 휴대폰의 긴 카페 사진 목록을 의식한다.
+웃음·감정: 서로의 취미를 재는 우스운 이중 기준
+연결: 메시지는 큰 그림 아이콘; 읽어야 웃기는 자막에 의존하지 않음
+생성 START 상태: Man OTS near table, navy shoulder foregroundLEFT. Phone in his hands shows THREE abstract avatar circles and tiny controller icon, no readable words. WomanRIGHTbackground notices with mildly sheepish face holding her phone showing grid of coffee photos. Daylight cafe.
+생성 END 상태: Man OTS near table, navy shoulder foregroundLEFT. Phone in his hands shows THREE abstract avatar circles and tiny controller icon, no readable words. WomanRIGHTbackground notices with mildly sheepish face holding her phone showing grid of coffee photos. Daylight cafe.
+카메라 위치 고정. 휴대폰에서 상대 얼굴로 한 번만 초점을 넘긴다.
+
+H016 · 잠깐만
+시간: 00:47.333–00:49.633 / 2.300초
+START: H016_START.png
+END: H016_END.png
+카메라: 남주 반응 짧은 푸시인
+장면: 남자가 패드와 여자 얼굴을 번갈아 보고, 천천히 자기 가슴을 가리킨다.
+웃음·감정: 내가 하던 게임인데?
+연결: 리액션은 여자의 시선 반대 방향으로 연결
+생성 START 상태: TIGHT MAN REACTION shoulderheight, sage sweatshirt, shortblackhair, looking sidewaysRIGHT toward offscreen woman. Brows raised, lips justparted. Oneemptyhand begins raising near chest, no womanface.
+생성 END 상태: Same close camera. He now points one finger lightly at his OWN chest, eyebrows 'my game?', puzzled smile. NO speech text. Controllernotvisible. CAMERA DESTINATION: 처음 0.4초 안에 10cm 빠르게 접근하고 곧바로 잠금. 남은 시간 표정 관찰.
+처음 0.4초 안에 10cm 빠르게 접근하고 곧바로 잠금. 남은 시간 표정 관찰.
+
+H017 · 지금 중요한 순간
+시간: 00:49.633–00:52.633 / 3.000초
+START: H017_START.png
+END: H017_END.png
+카메라: 남주 OTS 옆으로 15cm 이동
+장면: 여자는 TV에서 눈을 떼지 않고 손바닥을 들어 조용히 하라는 신호. 남자는 물컵 든 채 입을 다문다.
+웃음·감정: 핀잔 주던 사람이 방해 금지 요구
+연결: 목소리 대사 없이 검지 입술·손바닥으로 표현
+생성 START 상태: Man OTS medium womanRIGHT intensely watching TVLEFT, LEFT hand supports controller on lap, RIGHT palm raised near ownshoulder quieting him. ManLEFTedge holds waterglass and keeps mouthclosed. Clear separatedhands, she is focused notangry.
+생성 END 상태: Man OTS medium womanRIGHT intensely watching TVLEFT, LEFT hand supports controller on lap, RIGHT palm raised near ownshoulder quieting him. ManLEFTedge holds waterglass and keeps mouthclosed. Clear separatedhands, she is focused notangry. CAMERA DESTINATION: 남주 어깨가 얼굴을 가리지 않게 옆으로 조금 이동하며 여주의 집중을 드러낸다.
+남주 어깨가 얼굴을 가리지 않게 옆으로 조금 이동하며 여주의 집중을 드러낸다.
+
+H018 · 조금 다른 것뿐
+시간: 00:52.633–00:55.333 / 2.700초
+START: H018_START.png
+END: H018_END.png
+카메라: 투숏 소형 아크
+장면: 여자가 실패하자 남자는 웃음을 참는다. 여자가 눈만 흘기자 남자는 즉시 진지한 응원 표정으로 바꾼다.
+웃음·감정: 웃음 참기→눈치 보기
+연결: 과한 찌그러짐 대신 눈·입 타이밍
+생성 START 상태: TWO-SHOT at TVheight. Woman RIGHT glances at man with narrowed mockwarning eyes after losing, controller in lap. ManLEFT suppresses a laugh with pressed lips and shakingcheeks, glass ontable.
+생성 END 상태: Same fixedframe. Man catches her glance, instantly straightens with solemn exaggerated supportive expression and little thumbs-up. She stays looking at him, small amused irritation, not aggression. CAMERA DESTINATION: 두 사람 사이를 유지하고 같은 편에서 8도 아크. 장난스러운 경고와 받아주는 웃음을 함께 둔다.
+두 사람 사이를 유지하고 같은 편에서 8도 아크. 장난스러운 경고와 받아주는 웃음을 함께 둔다.
+
+H019 · 맞고 틀림 없음
+시간: 00:55.333–00:57.900 / 2.567초
+START: H019_START.png
+END: H019_START.png (START 공용)
+카메라: 패드와 손 디테일
+장면: 남자가 빼앗지 않고 허공에서 버튼 순서를 시범. 여자가 그대로 눌러 성공한다.
+웃음·감정: 도움이 잔소리가 되지 않음
+연결: 패드 하나, 추가 손은 접촉 없이 설명
+생성 START 상태: HANDS INSERT over table, no heads. Woman CORAL sleeves hold controller BOTHhands. Man SAGE sleeves point in AIR beside button sequence, do nottouch controller. ONE unused controller further table, phoneRIGHT. Teaching gesture readable.
+생성 END 상태: HANDS INSERT over table, no heads. Woman CORAL sleeves hold controller BOTHhands. Man SAGE sleeves point in AIR beside button sequence, do nottouch controller. ONE unused controller further table, phoneRIGHT. Teaching gesture readable.
+카메라 잠금. 손의 힘과 버튼 입력만 작게 움직인다.
+
+H020 · 너도 하고
+시간: 00:57.900–01:00.566 / 2.666초
+START: H020_START.png
+END: H020_END.png
+카메라: 승리 동작 따라 짧은 상승
+장면: 여자가 성공하며 주먹을 들고, 남자는 옆에서 작게 만세. 역할이 자연스럽게 선수와 응원단으로 바뀐다.
+웃음·감정: 둘 다 즐거움
+연결: 여자가 패드를 놓치지 않도록 한 손만 듦
+생성 START 상태: SIDE WIDE BOTH seated, womanRIGHT now grinning at screen after win, controller supported LEFT hand in lap, RIGHTfist near shoulder ready. ManLEFT hands near knees excited, watchingTV.
+생성 END 상태: Same wide. Woman raises ONE victorious fist, otherhand secures controller in lap. Man cheers with both elbows bent and hands slightly up. No peoplejumping or controllerfloating. CAMERA DESTINATION: 주먹이 올라갈 때 카메라도 15cm만 상승. 얼굴과 주먹을 동시에 확보하고 정지.
+주먹이 올라갈 때 카메라도 15cm만 상승. 얼굴과 주먹을 동시에 확보하고 정지.
+
+H021 · 나도 하고
+시간: 01:00.566–01:03.233 / 2.667초
+START: H021_START.png
+END: H021_END.png
+카메라: 남주의 무릎 위 옷에서 틸트업
+장면: 쇼핑 날 여자가 남자 무릎 위에 재킷을 툭 놓는다. 남자가 됐다는 손짓을 하다 옷감을 만져 본다.
+웃음·감정: 이번엔 남자의 호기심
+연결: 눈길→옷감→거울 순서
+생성 START 상태: LOW HAND/LAP insert. Seatedman's charcoal trouser knees LEFT and navy sleeves, womanBEIGE sleeve enteringRIGHT with CREAM jacket held above his lap. His onepalm begins a dismissive smallwave. CAMERA REVISION: Edit this approved Korean webtoon frame, preserve exact identities/style/scene/wardrobe. Single landscape16:9 image, no panels/text. Reframe same scene DOWNWARD to focus on male hands and cream garment across his lap. Crop just below mouth, no full face, retain seatedbench and clothing. This is START before tilting UP to his interested face. Exact pose and costume.
+생성 END 상태: Same insert. Creamjacket NOW lies across man's knees. His formerly wavinghand now pinches fabriccuriously, womanhands withdrawn. No head/face. CAMERA DESTINATION: 옷과 손이 보이는 낮은 시작에서 얼굴까지 15도 틸트업. 관심 생긴 표정에서 끝낸다.
+옷과 손이 보이는 낮은 시작에서 얼굴까지 15도 틸트업. 관심 생긴 표정에서 끝낸다.
+
+H022 · 사이좋게 살자고
+시간: 01:03.233–01:07.866 / 4.633초
+START: H022_START.png
+END: H022_END.png
+카메라: 거울 옆 느린 전진
+장면: 남자가 재킷을 입고 무심하게 보다가 어깨를 한 번 돌린다. 거울 안 자기 모습에 작게 만족한다.
+웃음·감정: 처음으로 옷에 진심인 눈
+연결: 거울 속 인물과 실물 손 동작 정확히 일치
+생성 START 상태: Man THREE-QUARTER MEDIUM seen BESIDE mirror, wearing CREAM jacket over navyovershirt whiteTEE, looking at own reflection cautiously. Simple mirror shows corresponding SAME man, no duplicated unrelatedface. Womanoffscreen.
+생성 END 상태: Same camera. He turns shoulder slightly, gently straightens lapel and smiles at his ownreflection. Jacket cream stayson, no differentbaseclothes. CAMERA DESTINATION: 거울 속 얼굴과 실제 어깨를 함께 유지하며 25cm 접근. 거울 축을 넘지 않는다.
+거울 속 얼굴과 실제 어깨를 함께 유지하며 25cm 접근. 거울 축을 넘지 않는다.
+
+H023 · 첫 후렴: 입장 역전
+시간: 01:07.866–01:10.500 / 2.634초
+START: H023_START.png
+END: H023_END.png
+카메라: 옷 두 벌을 따라 짧은 팬
+장면: 남자가 두 번째 옷을 손짓해 달라고 한다. 여자는 놀라다 옷을 건넨다.
+웃음·감정: 거절하던 사람이 추가 주문
+연결: 후렴 첫 줄에서 행동의 변화가 명확히 시작
+생성 START 상태: Man holds CREAM jacket onhanger and asks woman for OLIVE jacket. He has taken creamjacket off after mirror test, base navyovershirt visible.
+생성 END 상태: Man supports TWO jackets onhangers, onecream oneolive; woman hands empty after handover. CAMERA DESTINATION: 옷의 이동을 따라 10도 팬하고 두 벌을 모두 든 남주에게 정착.
+옷의 이동을 따라 10도 팬하고 두 벌을 모두 든 남주에게 정착.
+
+H024 · 투자와 낭비
+시간: 01:10.500–01:13.133 / 2.633초
+START: H024_START.png
+END: H024_END.png
+카메라: 벤치 여주 시점 소형 틸트
+장면: 남자가 옷 두 벌을 자기 몸에 번갈아 대고 진지하게 비교. 여자는 처음엔 재미있게 지켜본다.
+웃음·감정: 남자의 과도한 진지함
+연결: 급격한 패션 화보 대신 고민하는 꽁트
+생성 START 상태: Man SOLO MID-SHOT intentfurrowedbrows. CREAM jacket has been taken OFF and now held onhanger in LEFT hand; OLIVE jacket onhanger RIGHT. Base NAVY overshirt whiteTEE darktrousers. Looks between jackets/mirroredge notviewer, railbackground.
+생성 END 상태: Man SOLO MID-SHOT intentfurrowedbrows. CREAM jacket has been taken OFF and now held onhanger in LEFT hand; OLIVE jacket onhanger RIGHT. Base NAVY overshirt whiteTEE darktrousers. Looks between jackets/mirroredge notviewer, railbackground. CAMERA DESTINATION: 여주가 올려다보는 높이에서 8도만 위로 틸트. 남주가 옷을 놓지 않는 모습을 본다.
+여주가 올려다보는 높이에서 8도만 위로 틸트. 남주가 옷을 놓지 않는 모습을 본다.
+
+H025 · 하는 건 똑같잖아
+시간: 01:13.133–01:18.400 / 5.267초
+START: H025_START.png
+END: H025_END.png
+카메라: 도입과 같은 벤치 정면
+장면: 도입에서 남자가 앉았던 정확한 벤치에 이번엔 여자가 앉아 있다. 남자 옷 고르기는 계속되고 여자는 천천히 졸기 시작한다.
+웃음·감정: 프레임을 재사용하되 역할만 완전 반전
+연결: 앞 6–9초 컷과 같은 렌즈·거리; 관객이 비교 가능
+생성 START 상태: EXACT WIDE asH003: LEFT bench RIGHTrail. Woman NOW seated LEFT awake but heavyeyelids, EMPTYhands onlap. Man NOW RIGHT byrail comparing TWO jackets creamolive onhangers, navyovershirt whiteTEE. Fullbodies, same furniture.
+생성 END 상태: Same lockedwide. Woman LEFT is now ASLEEP head drooped, hands emptylap. ManRIGHTstill intensely comparing SAME TWO jackets, body slightlyleaning in. Strong role reversal fromH003.
+카메라 완전 잠금. H003과 비교되는 구도에서 여주가 잠드는 모습을 0.8초 이상 보장.
+
+H026 · 내 취미도 소중
+시간: 01:18.400–01:21.166 / 2.766초
+START: H026_START.png
+END: H026_END.png
+카메라: 과자를 따라 작은 팬
+장면: 게임 중인 여자 옆에서 남자가 과자 봉지를 열어 준다. 여자가 손을 못 떼자 남자가 한 조각을 조심스럽게 건넨다.
+웃음·감정: 게임하던 남자가 보조 담당
+연결: 먹이는 접촉은 한 번만; 입·손 왜곡 최소화
+생성 START 상태: Mediumside TWO SHOT, womanRIGHT BOTHhands gaming, eyesTVLEFT. ManLEFT holds open chipbag onownlap withlefthand, righthand pinches ONE chip nearbag readytooffer. Tablechipsbowl and phone/unusedcontrollerunchanged.
+생성 END 상태: Same frame. Man's chiphand now extended NEAR her shoulder, stopping short of mouth; she leans towardgame unabletotakeit, concentrated expression. Chip is offered but notfed, affectionate comicwaiting, no hand mouthcontact. CAMERA DESTINATION: 남주 손에서 여주 쪽으로 8도 팬. 과자를 받고도 게임에서 눈을 못 떼는 얼굴에서 끝낸다.
+남주 손에서 여주 쪽으로 8도 팬. 과자를 받고도 게임에서 눈을 못 떼는 얼굴에서 끝낸다.
+
+H027 · 누가 쓸데없대
+시간: 01:21.166–01:24.166 / 3.000초
+START: H027_START.png
+END: H027_END.png
+카메라: 여주 리액션 클로즈업
+장면: 졸던 여자 앞에 옷걸이 하나가 또 들어온다. 여자가 눈을 뜨고 미소를 애써 유지한다.
+웃음·감정: 예전에 자기가 하던 행동을 체험
+연결: 옷걸이가 프레임 진입한 뒤 얼굴 변화
+생성 START 상태: TIGHT WOMAN seatedbencheyelevel, BLACK BOB, beige cardigan coraltee. Eyes CLOSED head drooping; emptyhands croppedlap. Blurrailbackground and edge of NAVYsleeve/manoffscreenRIGHT.
+생성 END 상태: Same exactclose. Cream jacket onhanger enters fromRIGHT held by man's hand, womanopens eyes and gives strained polite smile, chin lifts a little. No newperson or thirdhand.
+표정이 바뀌는 동안 카메라 잠금. 억지 미소를 읽을 시간을 준다.
+
+H028 · 서로 취미활동은
+시간: 01:24.166–01:27.400 / 3.234초
+START: H028_START.png
+END: H028_END.png
+카메라: TV 아래 낮은 위치에서 짧은 전진
+장면: 여자가 한 판을 끝내고 패드를 남자에게 넘긴다. 남자가 반갑게 받으려는데 여자가 두 번째 패드를 꺼낸다.
+웃음·감정: 독점 대신 같이 한 번
+연결: 여분 패드는 도입에 미리 노출한 소품
+생성 START 상태: Handsheight mediumTWO-SHOT onsofa, womanRIGHT finishinggame holds ONE controller toward manLEFT who reaches underneath readyreceive. SECOND controller tableCENTER. Bothpleasantneutral.
+생성 END 상태: Same camera. ManLEFT now supports FIRST controller withBOTHhands. WomanRIGHT has picked SECOND controller fromtable and supports it onherlap. Center tableemptyofcontrollers. Two controllersTOTAL. Clear natural roleexchange, no extrahands. CAMERA DESTINATION: 35mm 느낌의 낮은 투숏에서 20cm 전진. 패드를 나눠 갖는 손과 얼굴을 유지.
+35mm 느낌의 낮은 투숏에서 20cm 전진. 패드를 나눠 갖는 손과 얼굴을 유지.
+
+H029 · 보장해 줍쇼
+시간: 01:27.400–01:29.733 / 2.333초
+START: H029_START.png
+END: H029_END.png
+카메라: 손에서 웃는 얼굴로 틸트업
+장면: 두 패드를 가볍게 맞댄 뒤 각자 화면을 본다. 장난스러운 협력의 미소.
+웃음·감정: 반복 후렴의 작은 시그니처
+연결: 시그니처는 패드 접촉; 청문회·계약 개그 사용 안 함
+생성 START 상태: TIGHT TWO PAIRS HANDS ONLY above knees. ManLEFTsage sleeves holdsONE controller, womanRIGHTcoralsleeves holdsSECOND, controllers near eachother for a friendly lightclink. Sofa blur. No faces, no extradevice. CAMERA REVISION: Edit this approved Korean webtoon frame, preserve exact identities/style/scene/wardrobe. Single landscape16:9 image, no panels/text. Reframe same couple scene downward into a CLOSE HANDS/CONTROLLERS insert. Do not show faces at START. Retain exact sleeves and TWO BLACKcontrollers, same positions. This is START before tilting UP to both smiling faces.
+생성 END 상태: TIGHT TWO PAIRS HANDS ONLY above knees. ManLEFTsage sleeves holdsONE controller, womanRIGHTcoralsleeves holdsSECOND, controllers near eachother for a friendly lightclink. Sofa blur. No faces, no extradevice. CAMERA DESTINATION: 패드 가까이에서 눈높이까지 18도 틸트업. 마지막 0.4초 두 얼굴 유지.
+패드 가까이에서 눈높이까지 18도 틸트업. 마지막 0.4초 두 얼굴 유지.
+
+H030 · 내 택배는 필요한 것
+시간: 01:29.733–01:32.333 / 2.600초
+START: H030_START.png
+END: H030_END.png
+카메라: 택배를 따라 낮은 상승
+장면: 두 택배가 나란히 놓인다. 여자 신발과 남자 신발이 양쪽에서 들어오고 각자 자기 상자를 끌어간다.
+웃음·감정: 둘 다 똑같은 기대
+연결: 여자는 옷, 남자는 작은 낚시 소품; 새로운 큰 장비 없음
+생성 START 상태: LOW FLOOR SHOT frontdoor interior, TWO small kraftboxes sidebyside nearthreshold. Man's gray-sockedfeetLEFT, woman's creamsockedfeetRIGHT beginning to approach; noheads, no labels.
+생성 END 상태: Same floorcamera. Two pairsadult hands reach down and each grasp ONE box, man'ssage sleevesLEFT woman'scoralRIGHT. Boxes lifted5cm fromfloor, two boxesTOTAL. CAMERA DESTINATION: 바닥의 두 상자가 들릴 때 20cm 상승. 얼굴까지 무리하게 올라가지 않는다.
+바닥의 두 상자가 들릴 때 20cm 상승. 얼굴까지 무리하게 올라가지 않는다.
+
+H031 · 또 뭘 샀냐고
+시간: 01:32.333–01:35.000 / 2.667초
+START: H031_START.png
+END: H031_END.png
+카메라: 대칭 투숏 풀백
+장면: 서로 상자를 열다가 동시에 상대를 쳐다본다. 눈이 마주치자 상자를 조금 숨기다가 멋쩍게 웃고 다시 연다.
+웃음·감정: 말보다 강한 쌍방 찔림
+연결: 똑같은 행동을 순차로 시작해 동시에 끝냄
+생성 START 상태: WIDE ROOM both onoppositesofasides, each smallopenbox onlap. WomanRIGHT handling camerachord stillinsidebox, manLEFT smalltackleaccessory, glancejuststarting towardother. Normal evening, controllers restingtable.
+생성 END 상태: Samewide. They look straightatEACHOTHER with sheepish amusedsmiles, boxes partlytiltedclosebutnotconcealed, eachstopsownhands. No malicioussurprise, two boxesonly. CAMERA DESTINATION: 두 사람과 각자 상자를 담은 화면에서 30cm 후퇴. 상대 물건을 보는 시선이 끝나면 정지.
+두 사람과 각자 상자를 담은 화면에서 30cm 후퇴. 상대 물건을 보는 시선이 끝나면 정지.
+
+H032 · 여행은 추억
+시간: 01:35.000–01:37.466 / 2.466초
+START: H032_START.png
+END: H032_END.png
+카메라: 도착 방향 측면 트래킹
+장면: 낚시 날. 여자는 여행용 작은 카메라로 강변을 찍으며 걷고 남자는 낚시 가방을 든다.
+웃음·감정: 같은 장소를 다른 취미로 즐김
+연결: 도입 강변 의상 재등장; 낮 시작
+생성 START 상태: Wide riverbank arrivalonflatpath, womanRIGHTcreamjacket coraltee skinnyjeans holds smallcamera photographingriverRIGHT, manLEFTsagewindbreaker charcoaltrousers carries closedsmalltacklebag and foldedchairs. Distantbridge/hills, noextraperson.
+생성 END 상태: Wide riverbank arrivalonflatpath, womanRIGHTcreamjacket coraltee skinnyjeans holds smallcamera photographingriverRIGHT, manLEFTsagewindbreaker charcoaltrousers carries closedsmalltacklebag and foldedchairs. Distantbridge/hills, noextraperson. CAMERA DESTINATION: 남주의 짐과 여주의 카메라가 함께 보이는 높이로 40cm 옆 이동. 속도는 걷기보다 느리게.
+남주의 짐과 여주의 카메라가 함께 보이는 높이로 40cm 옆 이동. 속도는 걷기보다 느리게.
+
+H033 · 살림망은 물속으로
+시간: 01:37.466–01:40.333 / 2.867초
+START: H033_START.png
+END: H033_END.png
+카메라: 손 높이 미디엄 / 살림망을 따라 틸트다운
+장면: 남주가 살림망을 물에 넣고 입구를 고정한다. 여주는 옆에서 지켜본다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 안전한 평지 둔치, 물가 가장자리 과한 동작 금지
+생성 START 상태: 강가 낮은 안전한 둔덕. 남주가 긴 원통형 살림망 입구 고리를 수면 가까이 잡고 있다. 민장대는 V 받침 위.
+생성 END 상태: 살림망 입구는 물가 고정대에 고정되고 몸통과 끝은 물속에 충분히 잠겼다. 여주가 고개를 끄덕인다.
+손 높이 미디엄 / 살림망을 따라 틸트다운
+
+H034 · 아직 빈 살림망
+시간: 01:40.333–01:43.266 / 2.933초
+START: H034_START.png
+END: H034_START.png (START 공용)
+카메라: 수면 높이 소품 인서트 / 고정
+장면: 아직 빈 살림망이 수면 아래 잠겨 있는 것을 짧게 보여준다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 물고기 등장 없음; POV는 살림망 바닥의 장난스런 시점
+생성 START 상태: 수면 높이 클로즈업. 고정된 살림망 입구와 물속 원통 고리 두세 개, 투명한 얕은 물. 물고기는 없다.
+생성 END 상태: 동일 프레임 공용.
+수면 높이 소품 인서트 / 고정
+
+H035 · 조용한 찌
+시간: 01:43.266–01:45.300 / 2.034초
+START: H035_START.png
+END: H035_START.png (START 공용)
+카메라: 수면 클로즈업 / 고정
+장면: 찌 독립 인서트 1: 아직 조용한 수면.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 실제 입질로 오해시키는 큰 움직임은 다음 구간에만
+생성 START 상태: 물 위 가느다란 민물 찌의 빨간 찌톱만 서 있다. 몸통은 물속. 주변 작은 나뭇잎 하나. 인물과 낚싯대는 없다.
+생성 END 상태: 동일 프레임 공용.
+수면 클로즈업 / 고정
+
+H036 · 그래도 내가 좋다잖아
+시간: 01:45.300–01:49.366 / 4.066초
+START: H036_START.png
+END: H036_END.png
+카메라: 남주 측면 클로즈업 → 와이드 / 풀백
+장면: 기다림을 즐기는 남주와 아직 시큰둥한 여주를 대비한다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 웃음의 표적은 무관심했던 태도; 행복 자체는 존중
+생성 START 상태: 강변 남주 측면 얼굴 클로즈업, 편안한 미소.
+생성 END 상태: 카메라가 빠지며 여주와 두 의자, 물로 뻗은 민장대, 물속 살림망이 드러난다.
+남주 측면 클로즈업 → 와이드 / 풀백
+
+H037 · 어, 움직였다
+시간: 01:49.366–01:50.533 / 1.167초
+START: H037_START.png
+END: H037_START.png (START 공용)
+카메라: 찌 클로즈업 / 고정
+장면: 찌 독립 인서트 2: 찌톱이 낮아지고 작은 파문이 생겨 입질을 예고한다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 화면 이동으로 만들지 말고 찌 자체 변화
+생성 START 상태: 같은 가느다란 빨간 찌톱이 조금 잠기고 둥근 파문이 퍼진다. 인물·낚싯대는 없다.
+생성 END 상태: 동일 프레임 공용.
+찌 클로즈업 / 고정
+
+H038 · 눈빛이 달라진다
+시간: 01:50.533–01:53.300 / 2.767초
+START: H038_START.png
+END: H038_END.png
+카메라: 남주 어깨 너머 여주 / 짧은 푸시인 후 멈춤
+장면: 입질을 본 여주 눈빛이 달라지고 손이 낚싯대 쪽으로 간다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 손으로 입을 막는 복잡한 접촉 대신 동일 신호
+생성 START 상태: 시큰둥하던 여주가 물 쪽을 본다. 찌는 화면 밖.
+생성 END 상태: 여주 눈이 커지고 몸이 앞으로 기울며 오른손을 낚싯대 쪽으로 뻗는다.
+남주 어깨 너머 여주 / 짧은 푸시인 후 멈춤
+
+H039 · 내가 잡아볼게
+시간: 01:53.300–01:56.033 / 2.733초
+START: H039_START.png
+END: H039_END.png
+카메라: 손 인서트 → 미디엄 / 틸트업
+장면: 여주가 받침의 민장대를 들어 올리고 남주는 손잡이를 잡는 위치를 알려준다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 잔고 가사는 값비싼 소비 미화 대신 기존 장비 사용으로 연결
+생성 START 상태: 손 클로즈업. 여주가 릴 없는 민장대 손잡이를 V 받침에서 든다.
+생성 END 상태: 약간 넓어진 구도. 여주 양손이 민장대 손잡이를 잡고 남주는 별도 손으로 위치를 가리킨다. 찌·휴대폰 없음.
+손 인서트 → 미디엄 / 틸트업
+
+H040 · 서툰 낚시 수업
+시간: 01:56.033–02:01.066 / 5.033초
+START: H040_START.png
+END: H040_END.png
+카메라: 측면 투숏 / 짧은 아크
+장면: 서툰 여주가 낚싯대를 들고 남주의 설명에 웃는다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 캐스팅은 생략, 이미 드리운 낚싯대만 안전하게 인계
+생성 START 상태: 여주 오른쪽 앉아서 민장대를 잡고 남주 왼쪽이 손잡이 앞쪽을 가리킨다.
+생성 END 상태: 여주가 자세를 바로잡고 살짝 웃는다. 민장대는 물 위 화면 밖으로 뻗는다.
+측면 투숏 / 짧은 아크
+
+H041 · 왔다!
+시간: 02:01.066–02:06.166 / 5.100초
+START: H041_START.png
+END: H041_END.png
+카메라: 허리 높이 투숏 → 낮은 전신 / 틸트다운·짧은 후퇴
+장면: 입질! 여주가 일어나자 낚싯대가 휘고 남주는 컵을 놓고 급히 돕는다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 물은 화면 오른쪽. 남주 왼쪽·여주 오른쪽 축 유지. 같은 붕어 한 마리, 민장대 한 대. 살림망은 물속, 뜰채는 별도.
+생성 START 상태: 여주가 벌떡 일어나 두 발을 벌려 버틴다. 잡은 민장대가 물의 저항으로 오른쪽 수면 쪽으로 휜다. 남주는 컵을 테이블에 내려놓는다.
+생성 END 상태: 낮은 구도로 여주 버티는 발과 굽은 낚싯대, 남주가 뒤로 다가서는 모습. 물고기는 아직 물속.
+허리 높이 투숏 → 낮은 전신 / 틸트다운·짧은 후퇴
+
+H042 · 둘이 잡아야 산다
+시간: 02:06.166–02:11.700 / 5.534초
+START: H042_START.png
+END: H042_END.png
+카메라: 낮은 측면 전신 투숏 / 8도 아크 후 정지
+장면: 둘이 함께 휘어진 낚싯대를 붙잡고 버틴다. 이 구간의 핵심 코믹 액션.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 물은 화면 오른쪽. 남주 왼쪽·여주 오른쪽 축 유지. 같은 붕어 한 마리, 민장대 한 대. 살림망은 물속, 뜰채는 별도.
+생성 START 상태: 여주 앞 오른쪽, 남주 뒤 왼쪽. 여주는 민장대 손잡이 앞쪽을 양손으로 잡고 남주는 뒤쪽 별도 구간을 양손으로 받친다. 네 손이 구별된다. 낚싯대가 오른쪽 물을 향해 크게 부드럽게 휜다. 놀라면서 즐거운 얼굴.
+생성 END 상태: 같은 동작의 8도 옆 구도. 둘이 무게를 뒤로 싣고 버티며 서로 웃는다. 연속된 한 대의 휘어진 민장대와 네 손, 발 디딤을 명료하게 보여준다.
+낮은 측면 전신 투숏 / 8도 아크 후 정지
+
+H043 · 물속의 정체
+시간: 02:11.700–02:14.133 / 2.433초
+START: H043_START.png
+END: H043_END.png
+카메라: 수면 낮은 클로즈업 / 짧은 횡추적
+장면: 물속 붕어가 수면에 올라오며 물보라가 튄다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 물은 화면 오른쪽. 남주 왼쪽·여주 오른쪽 축 유지. 같은 붕어 한 마리, 민장대 한 대. 살림망은 물속, 뜰채는 별도.
+생성 START 상태: 물가 수면 클로즈업, 25–30cm 은빛 붕어 한 마리 등이 잠깐 드러나며 파문.
+생성 END 상태: 같은 물고기가 물가 가까이 돌아서며 작은 물보라를 만든다. 물 밖 공중에 매달리지 않는다.
+수면 낮은 클로즈업 / 짧은 횡추적
+
+H044 · 뜰채 출동
+시간: 02:14.133–02:17.066 / 2.933초
+START: H044_START.png
+END: H044_END.png
+카메라: 남주 반응 클로즈업 / 짧은 푸시인
+장면: 남주가 눈을 크게 뜨고 뜰채 쪽을 본다. 결연한 표정이 웃음을 만든다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 물은 화면 오른쪽. 남주 왼쪽·여주 오른쪽 축 유지. 같은 붕어 한 마리, 민장대 한 대. 살림망은 물속, 뜰채는 별도.
+생성 START 상태: 남주 얼굴 미디엄 클로즈업. 놀란 눈으로 오른쪽 물을 본다.
+생성 END 상태: 남주가 시선을 아래 뜰채로 돌리고 입술을 꾹 다문다.
+남주 반응 클로즈업 / 짧은 푸시인
+
+H045 · 아래에서 받쳐!
+시간: 02:17.066–02:22.000 / 4.934초
+START: H045_START.png
+END: H045_END.png
+카메라: 물가 측면 미디엄 → 수면 / 틸트다운
+장면: 여주는 낚싯대를 유지하고 남주가 뜰채를 물고기 아래로 넣는다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 물은 화면 오른쪽. 남주 왼쪽·여주 오른쪽 축 유지. 같은 붕어 한 마리, 민장대 한 대. 살림망은 물속, 뜰채는 별도.
+생성 START 상태: 여주 뒤 오른쪽이 휘어진 민장대를 높이 들고 버틴다. 남주 앞 왼쪽은 긴 손잡이 뜰채의 둥근 망을 물속 붕어 아래로 넣는다.
+생성 END 상태: 카메라가 수면 가까이 내려가며 붕어가 뜰채 망 안으로 들어간다. 살림망과 뜰채는 다른 도구.
+물가 측면 미디엄 → 수면 / 틸트다운
+
+H046 · 진짜 잡았다
+시간: 02:22.000–02:24.633 / 2.633초
+START: H046_START.png
+END: H046_END.png
+카메라: 뜰채 속 물고기 인서트 / 짧은 푸시인
+장면: 뜰채 안에 잡힌 붕어 한 마리를 확실히 보여주는 보상 컷.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 물은 화면 오른쪽. 남주 왼쪽·여주 오른쪽 축 유지. 같은 붕어 한 마리, 민장대 한 대. 살림망은 물속, 뜰채는 별도.
+생성 START 상태: 물에 닿아 있는 젖은 얕은 뜰채 망 안에 은빛 붕어 한 마리. 비늘과 꼬리가 분명하다.
+생성 END 상태: 같은 물고기와 뜰채를 약간 더 가까이. 망 바닥은 수면 가까이 유지.
+뜰채 속 물고기 인서트 / 짧은 푸시인
+
+H047 · 우리 해냈다
+시간: 02:24.633–02:27.266 / 2.633초
+START: H047_START.png
+END: H047_END.png
+카메라: 물고기·손 → 웃는 투숏 / 틸트업
+장면: 잡았다! 둘이 물가의 뜰채를 보고 동시에 환하게 웃는다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 물은 화면 오른쪽. 남주 왼쪽·여주 오른쪽 축 유지. 같은 붕어 한 마리, 민장대 한 대. 살림망은 물속, 뜰채는 별도.
+생성 START 상태: 안전한 둔덕에서 남주가 물 가까이 뜰채를 받치고 여주는 옆에서 기쁨에 찬 미소. 민장대는 이제 곧게 펴져 받침 위.
+생성 END 상태: 카메라가 두 얼굴 쪽으로 올라가 서로를 보며 웃는 순간. 같은 물고기는 뜰채 안.
+물고기·손 → 웃는 투숏 / 틸트업
+
+H048 · 살림망으로
+시간: 02:27.266–02:30.933 / 3.667초
+START: H048_START.png
+END: H048_END.png
+카메라: 수면 높이 손·망 클로즈업 / 짧은 횡이동
+장면: 물고기를 물속 살림망으로 옮긴다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 물은 화면 오른쪽. 남주 왼쪽·여주 오른쪽 축 유지. 같은 붕어 한 마리, 민장대 한 대. 살림망은 물속, 뜰채는 별도.
+생성 START 상태: 수면 높이 손 인서트. 여주가 물가에 고정된 살림망 입구를 안정시키고 남주가 물 위 바로 낮게 뜰채를 입구에 댄다.
+생성 END 상태: 뜰채를 조심히 기울여 붕어 한 마리가 살림망 속 물로 들어간다. 살림망 몸통은 계속 물속.
+수면 높이 손·망 클로즈업 / 짧은 횡이동
+
+H049 · 취미 동료 탄생
+시간: 02:30.933–02:33.733 / 2.800초
+START: H049_START.png
+END: H049_END.png
+카메라: 투숏 → 와이드 / 풀백
+장면: 둘이 주먹을 맞대며 웃고 낚시 성공을 함께 즐긴다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 물은 화면 오른쪽. 남주 왼쪽·여주 오른쪽 축 유지. 같은 붕어 한 마리, 민장대 한 대. 살림망은 물속, 뜰채는 별도.
+생성 START 상태: 강변 투숏, 여주와 남주가 서로 보며 주먹을 내민다. 민장대는 V 받침, 살림망은 물속, 빈 뜰채는 물가에 놓였다.
+생성 END 상태: 두 주먹이 가볍게 맞닿고 둘 다 웃는다. 뒤로 빠지며 같은 강변 배치가 보인다.
+투숏 → 와이드 / 풀백
+
+H050 · 쇼핑 좋아해? 하세요
+시간: 02:33.733–02:36.166 / 2.433초
+START: H050_START.png
+END: H050_END.png
+카메라: 가방 건네기 따라 짧은 후퇴
+장면: 다른 날. 남자가 여자의 가벼운 외출 가방을 내밀고 활짝 문을 열어 준다.
+웃음·감정: 서로 취미를 허용하는 몸짓
+연결: 과한 하인 연기 대신 장난스런 문지기 인사
+생성 START 상태: EYELEVEL FRONTDOOR TWO-SHOT daylight. ManLEFTsage sweatshirt standsinside opendoor, smallcreamshoulderbag heldoutto womanRIGHTcoralknit skinnyjeans creamsneakers preparingexit. Sameapartment, friendly playfulface.
+생성 END 상태: Samecamera. WomanRIGHT nowwearscreamshoulderbag, manLEFTEMPTYhands oneholdingdoorwide, offers smallcourteousbow. She smiles andstepstowardthreshold. No forcedservantpose. CAMERA DESTINATION: 문을 나오는 여주와 실내 남주를 유지하며 복도 쪽으로 20cm 후퇴.
+문을 나오는 여주와 실내 남주를 유지하며 복도 쪽으로 20cm 후퇴.
+
+H051 · 게임 좋아해? 하세요
+시간: 02:36.166–02:38.800 / 2.634초
+START: H051_START.png
+END: H051_END.png
+카메라: 의자 회전에 맞춰 짧은 팬
+장면: 출발하던 여자가 돌아와 남자의 게임 의자를 TV 쪽으로 살짝 돌려 준다. 남자가 꾸벅 고개를 숙인다.
+웃음·감정: 배웅에 대한 답례
+연결: 여자는 패드를 빼앗지 않고 그대로 외출
+생성 START 상태: MEDIUM SIDE inside livingroom. ManLEFTsitsswivelgamechair facingawayfromTVslightly, TWOcontrollersontable. WomanRIGHTstandingbehindsidechair, smallshoulderbag, onehandlighttouchchairback readyturn.
+생성 END 상태: Sameframe. Chairnowturned20degrees towardTVLEFT, mannodsplayfulthankyou withhandsinknees, womanhandwithdrawn. Nogiantspin, no grabmanbody. CAMERA DESTINATION: 의자가 TV 쪽으로 도는 방향에 맞춰 카메라도 10도만 팬. 감사 인사 때 멈춘다.
+의자가 TV 쪽으로 도는 방향에 맞춰 카메라도 10도만 팬. 감사 인사 때 멈춘다.
+
+H052 · 여행 좋아해? 다녀오세요
+시간: 02:38.800–02:41.466 / 2.666초
+START: H052_START.png
+END: H052_END.png
+카메라: 문밖 측면 트래킹
+장면: 소형 캐리어와 카메라를 든 여자. 남자가 손을 흔들고 여자가 카메라로 남자의 우스운 배웅 자세를 한 장 찍는다.
+웃음·감정: 배웅하는 사람도 추억에 포함
+연결: 별도 여행 날임을 다른 의상과 자연광으로 구분
+생성 START 상태: LOW WIDE OUTSIDE doorway daylight: womanRIGHTcreamjacket coraltee skinnyjeans creamsneakers, smallcarryonbesideher, smallcameraheldmidchestpointing towardmanLEFTin doorway. ManSAGEsweatshirt givescomicallyformalstraightbackwave.
+생성 END 상태: Samecamera. Womanhasraisedcamera toeyelevelcapturingman'ssamegoofywavingpose. Carryonstayssameposition, no extra traveler. Onlyonecamera. CAMERA DESTINATION: 여주의 카메라가 올라가는 동안 복도 옆으로 25cm 이동. 남주 배웅 포즈는 계속 보인다.
+여주의 카메라가 올라가는 동안 복도 옆으로 25cm 이동. 남주 배웅 포즈는 계속 보인다.
+
+H053 · 낚시 좋아해? 갔다 오세요
+시간: 02:41.466–02:43.933 / 2.467초
+START: H053_START.png
+END: H053_END.png
+카메라: 가방 주머니 쪽 짧은 접근
+장면: 또 다른 날. 남자가 기존 낚시 가방을 메고 나간다. 여자는 보온병을 가방 옆주머니에 넣어 준다.
+웃음·감정: 과거 안 받던 차가 배려 소품으로 변화
+연결: 출발 전 가방 고정, 보온병 삽입 동작 하나
+생성 START 상태: TIGHT BAG/HANDS INSERT nearopendoor, nofaces. ManSAGEwindbreaker carryingSMALLolive tacklebag, woman'sCREAMsleeve holdsmetalthermosjustABOVEsidepocketreadyinsert. Bagstillandsecure.
+생성 END 상태: Sameclose. Thermosnowfullyseatedinbagpocketwithcapvisible, woman'semptyhandwithdrawn. Malehandholdsbaghandleunchanged, nogrowthintobigbackpack. CAMERA DESTINATION: 가방·손 클로즈업에서 10cm 접근. 보온병이 들어가면 마지막 0.5초 정지.
+가방·손 클로즈업에서 10cm 접근. 보온병이 들어가면 마지막 0.5초 정지.
+
+H054 · 잔소리는 하지 맙시다
+시간: 02:43.933–02:47.500 / 3.567초
+START: H054_START.png
+END: H054_START.png (START 공용)
+카메라: 두 장소 분할화면
+장면: 각자의 취미 시간. 여주는 카페 사진, 남주는 강변 풍경 사진을 휴대폰으로 주고받는다.
+웃음·감정: 떨어져 있어도 각자의 즐거움을 응원하는 작은 교감
+연결: H055와 같은 복장·컵·장소. 이 구도에서는 살림망이 보이지 않는다.
+생성 START 상태: 좌우 분할: 카페의 크림 재킷 여주와 강변의 세이지 바람막이 남주. 각자 화면이 본인을 향하는 휴대폰을 읽고 관객에게는 뒷면만 보인다.
+생성 END 상태: START 공용. 휴대폰 화면을 뒷면에 노출하지 않는다.
+분할선과 두 카메라 잠금. 각자 머뭇거리는 표정만 작게 움직인다.
+
+H055 · 각자 즐거운 시간
+시간: 02:47.500–02:51.133 / 3.633초
+START: H055_START.png
+END: H055_END.png
+카메라: 양쪽 화면 동시 소형 펀치인
+장면: 휴대폰을 본 둘이 웃으며 반대 손으로 엄지를 들어 답한다.
+웃음·감정: 서로의 취미를 인정하는 시각적 대구
+연결: H054와 동일: 여주 크림 재킷, 남주 세이지 바람막이. 두 폰 뒷면만 보이고 화면은 각자 얼굴을 향한다.
+생성 START 상태: H054와 같은 좌우 분할. 여주 크림 재킷, 남주 세이지 바람막이. 폰 뒷면만 보이며 각자 즐겁게 화면을 읽는다.
+생성 END 상태: 같은 분할의 조금 가까운 구도. 두 사람이 웃으며 한 손 엄지를 든다. 다른 손 휴대폰 화면은 계속 본인을 향한다.
+카메라는 각 장소에서 고정 생성. 편집에서 엄지 들 때 두 화면을 각각 100→105%로 0.2초 확대하고 유지. 분할선은 움직이지 않음.
+
+H056 · 마지막 후렴 시작
+시간: 02:51.133–02:53.766 / 2.633초
+START: H056_START.png
+END: H056_END.png
+카메라: 측면 미디엄 → 강변 와이드 / 풀백
+장면: 혼자서도 낚시를 즐기는 남주. 장비는 실제 민물낚시 배치를 유지한다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: 앞 강변 축 유지, 낮
+생성 START 상태: 남주가 왼쪽 의자에서 폰을 내려놓는다. 오른쪽 빈 의자, 민장대는 V 받침에서 물 위 화면 밖으로 뻗고 살림망은 물속.
+생성 END 상태: 넓어진 강변. 남주가 물을 보며 편하게 쉰다. 찌는 보이지 않는다.
+측면 미디엄 → 강변 와이드 / 풀백
+
+H057 · 다른 취미도 존중
+시간: 02:53.766–02:56.766 / 3.000초
+START: H057_START.png
+END: H057_END.png
+카메라: 골목 측면 트래킹
+장면: 여자는 가까운 한국 동네 골목을 카메라로 찍는다. 예쁜 창문을 찾고 즐겁게 멈춰 선다.
+웃음·감정: 소비뿐 아니라 관찰과 기록의 재미
+연결: 새 해외 배경·인물 추가 없이 근교 여행
+생성 START 상태: WomanSOLOadultBLACKBOB, creamjacketcoralknitdarkskinnyjeans creamsneakers, smallcameraat chestlookingtowardordinaryKoreansmalltown window flowers. WIDE cornerstreet eyelevel, camera/backthreequarterwomenstopsnaturallynotviewerpose, lowconcreteshops/powerpoles. No otherpeople. Single continuous wide scene, no inset panels.
+생성 END 상태: WomanSOLOadultBLACKBOB, creamjacketcoralknitdarkskinnyjeans creamsneakers, smallcameraat chestlookingtowardordinaryKoreansmalltown window flowers. WIDE cornerstreet eyelevel, camera/backthreequarterwomenstopsnaturallynotviewerpose, lowconcreteshops/powerpoles. No otherpeople. CAMERA DESTINATION: 여주 옆뒤에서 35cm 이동하다 사진을 찍으려 멈추는 순간 함께 멈춘다. 포즈 촬영 금지.
+여주 옆뒤에서 35cm 이동하다 사진을 찍으려 멈추는 순간 함께 멈춘다. 포즈 촬영 금지.
+
+H058 · 좋은 건 똑같다
+시간: 02:56.766–03:01.700 / 4.934초
+START: H058_START.png
+END: H058_END.png
+카메라: 승리 직전 느린 접근 후 멈춤
+장면: 다른 저녁 남자는 혼자 게임을 하다 성공해 작게 주먹을 든다. 빈 옆자리에는 여자 카메라 가방이 놓여 있다.
+웃음·감정: 각자 노는 일상이 편해짐
+연결: 이전 여행 날의 같은 시각으로 오인하지 않게 실내 저녁 전환
+생성 START 상태: ManSOLO sage sweatshirt onLEFTsofa playingONEcontroller BOTHhands, TVLEFT. EmptyRIGHTseat haswoman'ssmallcreamcamerabag, secondcontrollerstabletableCENTER. Eveninglivingroom, nearwinconcentrationface.
+생성 END 상태: Samewide. He raisesONEvictoryfistsmall, controllersecureOTHERhandonlap, happyquietgrin. EmptyRIGHTseatstillbagonly. No womanorphantomfaces. CAMERA DESTINATION: 첫 60% 구간 20cm 접근하고 정지. 이후 혼자 주먹 드는 작은 승리만 보인다.
+첫 60% 구간 20cm 접근하고 정지. 이후 혼자 주먹 드는 작은 승리만 보인다.
+
+H059 · 같이 하는 것도 좋지만
+시간: 03:01.700–03:04.333 / 2.633초
+START: H059_START.png
+END: H059_END.png
+카메라: 두 패드 오버헤드
+장면: 두 패드가 놓인 탁자. 남자는 자기 패드만 집고 여자 자리 쪽 두 번째 패드는 그대로 둔다.
+웃음·감정: 같이 하자고 강요하지 않는 선택
+연결: 사람 얼굴 없는 소품 컷으로 호흡
+생성 START 상태: TRUEOVERHEAD TABLE handsinsertONLY. TWOwhiteblackcontrollerssidebysideontable, maleSAGEsleevedhandreachestowardLEFTcontroller;RIGHTcontrollernearcreamcamerabaguntouched. Noheadsorfaces.
+생성 END 상태: Sameoverhead. MalehandnowLIFTSLEFTcontroller5cmabove surface, RIGHTcontrollerstaysontableexactspot. OnlyONEhand visible, no phantomwoman.
+위치 잠금. 왼쪽 패드만 들리고 오른쪽 패드는 남는 것이 명확해야 한다.
+
+H060 · 따로 노는 것도 필요해
+시간: 03:04.333–03:07.033 / 2.700초
+START: H060_START.png
+END: H060_END.png
+카메라: 카페 창가 측면 슬라이드
+장면: 여자는 혼자 고른 사진을 넘겨 보며 작은 미소. 남자에게 전화하려다 사진 한 장만 보내고 자기 시간을 계속 즐긴다.
+웃음·감정: 떨어져 있어도 불안하지 않음
+연결: 전화 포기 표정은 서운함이 아니라 만족
+생성 START 상태: 카페의 여주가 휴대폰 속 사진을 보며 흐뭇하게 웃는다. 관객 쪽에는 휴대폰 뒷면의 렌즈와 단색 케이스만 보인다.
+생성 END 상태: 조금 가까운 구도에서 같은 미소. 휴대폰 화면은 여주 쪽을 향한다.
+창가와 컵을 전경으로 20cm 옆 이동. 사진을 보는 눈을 마지막에 또렷하게 둔다.
+
+H061 · 할 얘기도 생기잖아
+시간: 03:07.033–03:12.266 / 5.233초
+START: H061_START.png
+END: H061_END.png
+카메라: 식탁 투숏 느린 접근
+장면: 남주는 민물낚시 채비 상자, 여주는 카메라를 식탁에 놓고 서로의 취미 이야기를 나눈다. 함께 붕어를 잡은 이야기에 웃는다.
+웃음·감정: 따로 놀기의 관계적 보상
+연결: 입 모양은 노랫말 립싱크가 아닌 자연스런 무성 대화
+생성 START 상태: SIDE WIDE apartment diningtableevening, manLEFTsage womanRIGHTcoralBLACKBOB skinnyjeans, smalltacklebagleftfloor/camerabagrightfloor. Bothjustseatedleaninstarttalkingsimultaneously, pleasantlysurprisedpartedlips. Emptytwocupsintablecenter.
+생성 END 상태: Samefixedwide. TheyhavepausedlookingEACHOTHERandlaughgenuinely, shouldersrelaxed, handsresttable. No face-to-viewerposing, no food appears magically. CAMERA DESTINATION: 동시에 말할 때는 넓게, 웃기 시작하면 30cm 접근. 끝에서 두 얼굴 크기를 동일하게 유지.
+동시에 말할 때는 넓게, 웃기 시작하면 30cm 접근. 끝에서 두 얼굴 크기를 동일하게 유지.
+
+H062 · 우리 같이 잡은 사진
+시간: 03:12.266–03:15.000 / 2.734초
+START: H062_START.png
+END: H062_START.png (START 공용)
+카메라: 여주 어깨 너머 폰·남주 미디엄 / 고정
+장면: 남주가 둘이 붕어를 잡았던 사진을 보여주자 여주가 뿌듯하게 웃는다.
+웃음·감정: 기다림에서 몰입으로 바뀌는 역할 역전과 함께 성공하는 코믹 보상
+연결: H046/H047 포획 성공을 휴대폰 사진으로 회수. 화면은 여주를 향하며 앞면에 후면 렌즈 없음.
+생성 START 상태: 여주 어깨 너머 남주. 남주가 여주 쪽으로 휴대폰 화면을 돌려 보여준다. 화면에는 아까 크림 재킷 여주와 세이지 바람막이 남주, 뜰채 속 작은 붕어를 함께 보며 웃는 사진 한 장.
+생성 END 상태: 동일 프레임 공용.
+여주 어깨 너머 폰·남주 미디엄 / 고정
+
+H063 · 나도 행복하게
+시간: 03:15.000–03:17.533 / 2.533초
+START: H063_START.png
+END: H063_END.png
+카메라: 역숏 여주 쪽 짧은 접근
+장면: 여자가 자기 사진 속 남자의 배웅 포즈를 보여 준다. 남자는 자기가 너무 진지한 표정이라 웃음을 터뜨린다.
+웃음·감정: 웃음의 대상은 서로의 귀여움
+연결: 사진 속 의상·현관은 158초 컷과 일치
+생성 START 상태: ManOTS sage shoulderforegroundLEFT, womanRIGHTshowsphonewithsmallphotoofSAMEmanSAGEwavingatdoorway, affectionateplayfulsmile. Normalphonephoto notnewthirdperson. No readabletext.
+생성 END 상태: Samecamera. Shetiltsphonegentlytowardhim, manforegroundshoulderlightlyshakeswithlaughter; womanlargerrelievedlaughteethsubtlyvisible. Facesstilltheapproveddesign, no outfitshift. CAMERA DESTINATION: 폰을 보여주는 여주와 남주 어깨를 유지하며 15cm 접근. 웃음이 나면 정지.
+폰을 보여주는 여주와 남주 어깨를 유지하며 15cm 접근. 웃음이 나면 정지.
+
+H064 · 좋아하는 건 존중
+시간: 03:17.533–03:22.500 / 4.967초
+START: H064_START.png
+END: H064_END.png
+카메라: 식탁 낮은 투숏 완만한 풀백
+장면: 남자가 과자를 열어 가운데 놓고 여자는 차를 두 잔 놓는다. 각자의 이야기를 들으며 고개를 끄덕인다.
+웃음·감정: 게임 과자와 낚시 차가 일상 배려로 통합
+연결: 새 소품 대신 이미 익숙한 과자·찻잔 회수
+생성 START 상태: LOW TWO SHOT acrosswooddiningtable, manLEFTopeningONEchipbag, womanRIGHTholdingtrayTWOcupsabove tabletop. Familiarwarmroom, friendlygazesatoneanother, camerabagfloorRIGHT.
+생성 END 상태: Samefixedshot. TWOcupsnowsetdownoneperside, chipsinONEsharedbowlcenter, bothhandsrelaxed andcouplelisteningwithsoftsmiles. Traymovedaside, no excesscups. Physicalplacementlogical. CAMERA DESTINATION: 컵 놓는 손이 가려지지 않게 25cm 후퇴. 두 사람과 함께 나누는 탁자를 드러낸다.
+컵 놓는 손이 가려지지 않게 25cm 후퇴. 두 사람과 함께 나누는 탁자를 드러낸다.
+
+H065 · 사랑한다면
+시간: 03:22.500–03:26.000 / 3.500초
+START: H065_START.png
+END: H065_END.png
+카메라: 느린 접근을 초인종 반응에서 정지
+장면: 초인종에 둘이 동시에 현관을 본다. 서로 택배 올 게 있냐는 듯 눈을 마주치고 살짝 굳는다.
+웃음·감정: 마지막 반전 준비
+연결: 초인종 효과음은 음원 감상 가리지 않는 선택 사항
+생성 START 상태: Wide diningroom, samepairmanLEFTwomanRIGHT warmchatting, tableTWOcupscenterchipsbowl, hallwaydoorinbackground. Eyescurrentlyoneachother, handsrelaxed.
+생성 END 상태: Samewide. BOTHheads turn towardhallwaydoor atLEFTbackground, eyebrowsfrozenincomicrecognition. Keep tableobjects andbodypositionsstable, no thirdperson. CAMERA DESTINATION: 초반 15cm 접근하다 두 사람이 문을 보는 순간 이동을 딱 멈춘다. 디지털 흔들림 금지.
+초반 15cm 접근하다 두 사람이 문을 보는 순간 이동을 딱 멈춘다. 디지털 흔들림 금지.
+
+H066 · 두 개의 택배
+시간: 03:26.000–03:29.266 / 3.266초
+START: H066_START.png
+END: H066_END.png
+카메라: 문밖 택배에서 위로 짧은 틸트
+장면: 문 밖에 비슷한 크기의 택배 두 개. 문틈으로 두 사람 얼굴이 위아래로 보인다.
+웃음·감정: 누구 하나만 들킨 게 아님
+연결: 과소비 암시를 피하도록 작은 상자 두 개
+생성 START 상태: LOW FLOOR SHOT FROM OUTSIDE FRONTDOOR. TWOsmallkraftboxes sidebysideforeground, opendoorcrackabove, man'sfaceupperLEFTandwomanBLACKBOBfaceupperRIGHTpeekfrominside doorway, oneaboveothernaturalstack. SameKoreanapartment, no readablelabels. CAMERA REVISION: Edit this approved Korean webtoon frame, preserve exact identities/style/scene/wardrobe. Single landscape16:9 image, no panels/text. Reframe existing low doorway scene DOWNWARD onto TWO kraftboxes in foreground, only very bottom of open door visible at upper edge; exclude faces at START. Boxes occupy bottomcenter sameorder. This is START before tilting UP to both peeking faces.
+생성 END 상태: LOW FLOOR SHOT FROM OUTSIDE FRONTDOOR. TWOsmallkraftboxes sidebysideforeground, opendoorcrackabove, man'sfaceupperLEFTandwomanBLACKBOBfaceupperRIGHTpeekfrominside doorway, oneaboveothernaturalstack. SameKoreanapartment, no readablelabels. CAMERA DESTINATION: 두 상자를 먼저 0.5초 보여준 뒤 문틈의 두 얼굴까지 12도 틸트업. 얼굴이 읽히면 정지.
+두 상자를 먼저 0.5초 보여준 뒤 문틈의 두 얼굴까지 12도 틸트업. 얼굴이 읽히면 정지.
+
+H067 · 말 안 해도 알아
+시간: 03:29.266–03:30.400 / 1.134초
+START: H067_START.png
+END: H067_END.png
+카메라: 현관 대칭 투숏
+장면: 둘이 상대를 가리키려다 동시에 손을 내린다. 대신 각자 자기 상자를 들어 올린다.
+웃음·감정: 잔소리를 삼키는 동시 행동
+연결: 한 번에 가리키기→멈춤→내리기 순서
+생성 START 상태: MEDIUM TWO SHOT insideentry, manLEFTwomanRIGHTbothholdingONEsmallkraftboxeachatwaist, otherfreehandindexfingerstartingpointtowardother, bothsheepishsmiles, coralsagehomeoutfits.
+생성 END 상태: Samecamera. Bothfreehands LOWEREDtotheirownboxes, no pointingnow. Eyecontactandamusedrecognition, two boxesTOTALheldsecurely.
+1.134초의 짧은 컷. 카메라 잠금. 손가락을 내리는 동시 행동만 또렷하게.
+
+H068 · 보장해 줍쇼
+시간: 03:30.400–03:32.900 / 2.500초
+START: H068_START.png
+END: H068_END.png
+카메라: 나란히 인사하는 투숏 소형 후퇴
+장면: 각자 상자를 든 채 가볍게 고개 숙여 장난스럽게 인사한다. 눈이 마주치며 웃는다.
+웃음·감정: 제목을 표정과 몸짓으로 마무리
+연결: 상자 부딪히기 대신 인사; 어색한 손 접촉 방지
+생성 START 상태: MEDIUM TWO SHOT entry, manLEFTwomanRIGHTeachhuggingONEsmallboxatwaist, uprightwithshygrinslookingEACHOTHER. No extra props.
+생성 END 상태: Sameexactcamera. BothgiveSMALLmatchingcourteousbowwithboxesheldsecure, smilebroadlyeyesateachother, notviewer. Naturalunexaggeratedspine/neck, no disappearingboxes. CAMERA DESTINATION: 절할 공간을 주며 20cm 후퇴. 인사 끝에서 정지하고 서로 웃게 한다.
+절할 공간을 주며 20cm 후퇴. 인사 끝에서 정지하고 서로 웃게 한다.
+
+H069 · 다시 평범한 집
+시간: 03:32.900–03:36.000 / 3.100초
+START: H069_START.png
+END: H069_END.png
+카메라: 소파 전경 따라 완만한 횡이동
+장면: 여자는 자기 상자에서 카메라 끈, 남자는 작은 낚시 소품을 꺼낸다. 서로 보라는 듯 들어 보였다가 자기 물건을 정리한다.
+웃음·감정: 합리적인 작은 취미 소비
+연결: 게임 구매가 또 나오는 반복 대신 취미 소품 다양화
+생성 START 상태: WIDE sameintro livingroom. ManLEFTwomanRIGHTeachopenSMALLboxonlap, womanholdsplaincamerastrap, manholdsSMALLrodaccessorypackagewithoutsharphooks. TheylookEACHOTHERsharingfinds. Controllersstabletable, nobigshoppingpile. Single continuous wide scene, no inset panels.
+생성 END 상태: WIDE sameintro livingroom. ManLEFTwomanRIGHTeachopenSMALLboxonlap, womanholdsplaincamerastrap, manholdsSMALLrodaccessorypackagewithoutsharphooks. TheylookEACHOTHERsharingfinds. Controllersstabletable, nobigshoppingpile. CAMERA DESTINATION: 도입과 같은 생활 공간에서 반대 방향으로 25cm 이동. 두 사람의 새 소품이 함께 보이게 한다.
+도입과 같은 생활 공간에서 반대 방향으로 25cm 이동. 두 사람의 새 소품이 함께 보이게 한다.
+
+H070 · 한 번만 더?
+시간: 03:36.000–03:39.000 / 3.000초
+START: H070_START.png
+END: H070_END.png
+카메라: 동시에 뻗은 손 인서트
+장면: 여자가 지나가다 패드에 손을 뻗는다. 남자 손도 들어와 잠깐 동시에 멈춘다. 여자는 패드를 그에게 밀어 준다.
+웃음·감정: 이번엔 빼앗지 않고 양보
+연결: 초반 패드 독점의 반대 행동
+생성 START 상태: EXTREME CLOSE TABLE/HANDS ONLY. ONEcontrollerontablecenter andSECONDfurtherleft. WomanCORALhandfromRIGHTreachescentercontroller; manSAGEhandfromLEFTreachesSAMEcontroller; bothfingertipsstopjustshort. Nofaceorheads.
+생성 END 상태: Samecamera. WomanhandhasgentlySLIDcentercontrollertowardmanLEFT, herpalmopenwithdrawsRIGHT; manhandnowgraspsleftedge. SECONDcontrollerremainsuntouchedfurtherleft. Aclearactofgivingwaynotfighting.
+위치 잠금. 멈칫한 뒤 상대에게 패드를 밀어주는 동작을 보여 준다.
+
+H071 · 엔딩: 같이 한 판
+시간: 03:39.000–03:42.600 / 3.600초
+START: H071_START.png
+END: H071_END.png
+카메라: 소파 뒤에서 긴 풀백
+장면: 남자가 여분 패드를 여자에게 건넨다. 나란히 게임을 시작하고 짧게 웃는다. TV 빛과 생활감 있는 집으로 종료.
+웃음·감정: 따로 놀 자유 위에 같이 노는 즐거움
+연결: 끝까지 두 사람만, 정면 카메라 응시·포스터 포즈 금지
+생성 START 상태: REAR WIDE COUPLE onsofa LEFTmansageRIGHTwomanBLACKBOBcoral, bothholdONEcontrollereachandlookTV, smalljoyfulsharedlaughseeninprofiles. TWOcontrollersTOTALintwopeopleshands, noothersonTABLE. Tablechips/twocups, eveningordinaryKoreanapartment. Finalpeacefulpullbackcomposition, no portraitpose.
+생성 END 상태: REAR WIDE COUPLE onsofa LEFTmansageRIGHTwomanBLACKBOBcoral, bothholdONEcontrollereachandlookTV, smalljoyfulsharedlaughseeninprofiles. TWOcontrollersTOTALintwopeopleshands, noothersonTABLE. Tablechips/twocups, eveningordinaryKoreanapartment. Finalpeacefulpullbackcomposition, no portraitpose. CAMERA DESTINATION: 3.6초 동안 60cm 천천히 후퇴. 두 인물 크기를 조금 줄여 TV 빛과 집을 남긴다. 끝 0.6초 정지.
+3.6초 동안 60cm 천천히 후퇴. 두 인물 크기를 조금 줄여 TV 빛과 집을 남긴다. 끝 0.6초 정지.
