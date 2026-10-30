@@ -16,3 +16,7 @@
 ## 커플·꽁트 이미지 테스트
 
 [캐릭터 시안 + 게임/쇼핑/낚시 전후 비교 7장](test-v1/README.md) · [PDF](test-v1/comparison.pdf) · [전체 테스트 ZIP](test-v1/hobby-test-v1.zip)
+
+## 여주 수정 시안 v2
+
+[사용자 얼굴 사진 참고 · 검은 단발 · 자연스러운 볼륨과 스키니진](character-v2/README.md) — 남주 유지, 여주 디자인은 확정 전입니다.
