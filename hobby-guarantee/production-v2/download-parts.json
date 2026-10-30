@@ -1,0 +1,58 @@
+[
+  {
+    "file": "images-part1-H001-H010.zip",
+    "first": 1,
+    "last": 10,
+    "images": 20,
+    "bytes": 45704545
+  },
+  {
+    "file": "images-part2-H011-H020.zip",
+    "first": 11,
+    "last": 20,
+    "images": 17,
+    "bytes": 36048950
+  },
+  {
+    "file": "images-part3-H021-H030.zip",
+    "first": 21,
+    "last": 30,
+    "images": 20,
+    "bytes": 40834644
+  },
+  {
+    "file": "images-part4-H031-H040.zip",
+    "first": 31,
+    "last": 40,
+    "images": 17,
+    "bytes": 42205422
+  },
+  {
+    "file": "images-part5-H041-H050.zip",
+    "first": 41,
+    "last": 50,
+    "images": 20,
+    "bytes": 52089298
+  },
+  {
+    "file": "images-part6-H051-H060.zip",
+    "first": 51,
+    "last": 60,
+    "images": 19,
+    "bytes": 44701090
+  },
+  {
+    "file": "images-part7-H061-H070.zip",
+    "first": 61,
+    "last": 70,
+    "images": 19,
+    "bytes": 37626614
+  },
+  {
+    "file": "images-part8-H071-H071.zip",
+    "first": 71,
+    "last": 71,
+    "images": 2,
+    "bytes": 4814846
+  }
+]
