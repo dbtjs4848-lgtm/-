@@ -1,3 +1,7 @@
+# 최신 카메라 연출 수정 v2
+
+[71컷 카메라·편집 연출 콘티](camera-v2/README.md) — 이후 영상 생성에는 이 수정본을 적용합니다. 기존 119장과 정지 MP4는 이미지 확인 자료입니다.
+
 # 최신 제작본
 
 [71컷·119장 전체 이미지와 다운로드](production-v1/README.md) · [컷별 시간·파일 대응표](production-v1/flova-cut-files.txt)
