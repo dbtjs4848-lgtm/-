@@ -1,0 +1,72 @@
+[
+  {
+    "file": "H003_END.png",
+    "issue": "수면이 명확히 보이도록 남주 눈을 완전히 감는 상태로 수정",
+    "status": "fixed"
+  },
+  {
+    "file": "H016_START.png",
+    "prompt": "Remove ONLY the black game controller from man's LEFT hand at bottom-left. Replace with EMPTY relaxed hand resting on lap, keep right hand rising near chest and surprised face EXACTLY unchanged. In this shot he has NO controller because woman is using it offscreen. No new objects, preserve exact close framing and Korean illustrated style. Single16:9 frame.",
+    "status": "fixed"
+  },
+  {
+    "file": "H017_START.png",
+    "prompt": "Remove ONLY the black game controller held on man's lap in LEFT foreground; replace with his EMPTY hand resting on lap. Keep the waterglass in his otherhand, woman RIGHT quieting him with raisedpalm and ONEcontroller in her otherhand, and ONEunusedcontroller on table. Exactly TWO controllers total, NOT three. Samecamera identities room faces. Single16:9.",
+    "status": "fixed"
+  },
+  {
+    "file": "H018_START.png",
+    "prompt": "Correct this to ONE SINGLE continuous landscape16:9 scene, absolutely NO inset or panel. Remove the entire lower bordered hand close-up panel and extend the main livingroom scene naturally down to show table. Keep same upper composition and exactfaces: manLEFT suppressinglaugh, womanRIGHTmockwarning sidewayslook. Woman holds ONEcontroller in lap; remove controller from man'shands, his EMPTYhands rest on knees. ONEother unusedcontroller on table, TWOcontrollersTOTAL. Keepchipsbowl and TWOcups, no extra objects. Same approved blackbobwoman and sageoutfitman. Not a montage, no borders, no duplicatedhands.",
+    "status": "fixed"
+  },
+  {
+    "file": "H026_START.png",
+    "prompt": "Turn this into ONE SINGLE continuous LANDSCAPE16:9 camera shot. Remove ALL right-hand inset panels and whiteborders entirely, extend the MAIN livingroom scene to fill WHOLEframe naturally. Keep approvedsamefaces and outfits. Man LEFT with openchipsbag inlefthand, ONEchip inrighthand near hisownlap preparingoffer. Woman RIGHT BOTHhands onONEcontroller watchingTVLEFT. ONEunusedcontrollerontable, chipsbowl phonecreamcup same. No close-up insets, no comiclayout, no borders, no text. This is a filmkeyframe not a comicpage.",
+    "status": "fixed"
+  },
+  {
+    "file": "H031_START.png",
+    "prompt": "ONE SINGLE continuous landscape16:9 livingroom camera shot. Remove ALL bottom close-up inset panels and borders, extend MAINupper scene naturally to fillwholeframe. SameapprovedmanLEFTwomanRIGHT withblackbob, eachONEsmallopenboxonlap. Both eyes nowjuststartinglooktowardother, pleasantlysheepish. Woman holds plainwoven CAMERA STRAP loop with NO USB plug or cable ends. Man holds smallnonsharp fishingaccessory packet. TWOblackcontrollers ontable, samechipsbowl/cup/background. No inset, no text, no duplicatedpeoplehands.",
+    "status": "fixed"
+  },
+  {
+    "file": "H032_START.png",
+    "prompt": "Precise continuity correction to riverbank ARRIVAL scene BEFORE camp is set up. Keep SAME manLEFT carrying TWO FOLDEDCHAIRS andsmalltacklebag, samewomanRIGHTblackbobcreamjacket photographingriver withsmallcamera. REMOVE the already UNFOLDED chairs onground, REMOVE table/thermos/cups, REMOVE fishingrod/holder/keepnet fromforeground; these are still packed. Replace removedobjects with normalemptygrass. Only carriedfoldedchairsbag andwoman'scamera present. Samefaces,outfits,sunnyriverbridgehills composition. One single16:9 frame, no panels.",
+    "status": "fixed"
+  },
+  {
+    "file": "H049_START.png",
+    "prompt": "Tiny local edit to remove the ONE extra loose cup on TABLE. Both people ALREADY each hold one cup near face, so there must be TWOcupsTOTAL. Table should contain ONLY the thermos, no thirdcup. Preserve all faces, bodyposes, rear camera, chairs, river, rod and keepnet exactly. Single16:9.",
+    "status": "fixed"
+  },
+  {
+    "file": "H044_START.png",
+    "status": "fixed",
+    "reason": "Remove unwanted inset panels; male reaction close-up"
+  },
+  {
+    "file": "H035_START.png",
+    "status": "fixed",
+    "reason": "Webtoon float style"
+  },
+  {
+    "file": "H037_START.png",
+    "status": "fixed",
+    "reason": "Webtoon float style"
+  },
+  {
+    "file": "H051_START.png",
+    "status": "fixed",
+    "reason": "Swivel chair and exactly two controllers"
+  },
+  {
+    "file": "H061_START.png",
+    "status": "fixed",
+    "reason": "Single continuous frame"
+  },
+  {
+    "file": "H067_START.png",
+    "status": "fixed",
+    "reason": "Single continuous frame"
+  }
+]
