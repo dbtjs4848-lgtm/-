@@ -1,0 +1,101 @@
+[
+  {
+    "archive": "images_C01_C09.zip",
+    "cuts": [
+      1,
+      9
+    ],
+    "images": [
+      "C01_start_end_F001.png",
+      "C02_start_end_F002.png",
+      "C03_start_end_F003.png",
+      "C04_start_end_F004.png",
+      "C05_start_end_F005.png",
+      "C06_start_F006.png",
+      "C06_end_F007.png",
+      "C07_start_end_F008.png",
+      "C08_start_end_F009.png",
+      "C09_start_end_F010.png"
+    ]
+  },
+  {
+    "archive": "images_C10_C18.zip",
+    "cuts": [
+      10,
+      18
+    ],
+    "images": [
+      "C10_start_end_F011.png",
+      "C11_start_end_F012.png",
+      "C12_start_end_F013.png",
+      "C13_start_end_F014.png",
+      "C14_start_end_F015.png",
+      "C15_start_end_F016.png",
+      "C16_start_F017.png",
+      "C16_end_F018.png",
+      "C17_start_end_F019.png",
+      "C18_start_end_F020.png"
+    ]
+  },
+  {
+    "archive": "images_C19_C27.zip",
+    "cuts": [
+      19,
+      27
+    ],
+    "images": [
+      "C19_start_end_F021.png",
+      "C20_start_end_F022.png",
+      "C21_start_end_F023.png",
+      "C22_start_F024.png",
+      "C22_end_F025.png",
+      "C23_start_F026.png",
+      "C23_end_F027.png",
+      "C24_start_end_F028.png",
+      "C25_start_end_F029.png",
+      "C26_start_F030.png",
+      "C26_end_F031.png",
+      "C27_start_end_F032.png"
+    ]
+  },
+  {
+    "archive": "images_C28_C36.zip",
+    "cuts": [
+      28,
+      36
+    ],
+    "images": [
+      "C28_start_F033.png",
+      "C28_end_F034.png",
+      "C29_start_end_F035.png",
+      "C30_start_end_F036.png",
+      "C31_start_end_F037.png",
+      "C32_start_end_F038.png",
+      "C33_start_end_F039.png",
+      "C34_start_end_F040.png",
+      "C35_start_end_F041.png",
+      "C36_start_end_F042.png"
+    ]
+  },
+  {
+    "archive": "images_C37_C45.zip",
+    "cuts": [
+      37,
+      45
+    ],
+    "images": [
+      "C37_start_end_F043.png",
+      "C38_start_F044.png",
+      "C38_end_F045.png",
+      "C39_start_end_F046.png",
+      "C40_start_end_F047.png",
+      "C41_start_end_F048.png",
+      "C42_start_F049.png",
+      "C42_end_F050.png",
+      "C43_start_end_F051.png",
+      "C44_start_F052.png",
+      "C44_end_F053.png",
+      "C45_start_end_F054.png"
+    ]
+  }
+]

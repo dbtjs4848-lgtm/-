@@ -2,6 +2,10 @@
 
 45컷 / 이미지 원본 54장 / 음원 3분 4.56초
 
+## Flova에서 제작하기
+
+[Flova 업로드용 콘티·음원·번호별 이미지 묶음](flova/README.md)
+
 ## 가장 간단하게 보기
 
 1. [음원 + 이미지 갤러리 ZIP 다운로드](https://github.com/dbtjs4848-lgtm/-/raw/refs/heads/main/music-video/gallery_download.zip)를 누릅니다.
