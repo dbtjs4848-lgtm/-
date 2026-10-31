@@ -2102,15 +2102,15 @@
       "file": "H013_START.png",
       "width": 1672,
       "height": 941,
-      "bytes": 2141502,
-      "sha256": "20fa866f8dfcc49660d17690498fb697b962d7e13026d8f450fd9e4a6ee1dbc9"
+      "bytes": 2151069,
+      "sha256": "febc11879aebf638e8b87beab8a925c72de88a43d83247908c4abb0519d93789"
     },
     {
       "file": "H013_END.png",
       "width": 1672,
       "height": 941,
-      "bytes": 2056681,
-      "sha256": "b1320422439b428197a25a84995e3911b93a2fbe5ce414185d8d2d51f5bc6405"
+      "bytes": 2033280,
+      "sha256": "76ce29fe7a79511ffabf519b044c86efd9f598326307c21acde10b50ebcdc900"
     },
     {
       "file": "H014_START.png",
@@ -2837,15 +2837,15 @@
       "file": "H069_START.png",
       "width": 1672,
       "height": 941,
-      "bytes": 2125955,
-      "sha256": "da4da23bbf492b9e575224893ceb3e9bde8c9edeb2ad866e1dd81d32f8a4820b"
+      "bytes": 2061622,
+      "sha256": "ca9994018b6e30948afd22e44984ace09a597b489b23acd370c0e317ff917715"
     },
     {
       "file": "H069_END.png",
       "width": 1672,
       "height": 941,
-      "bytes": 2131917,
-      "sha256": "1d8bdb3982c9fe49d92a9e4d32e004225ac9a96b32364606084a252346de33da"
+      "bytes": 2114801,
+      "sha256": "728d9809f3f11a7de53cfe314b6877ae8c856e6aa40c3263d06c8c80519ef8bb"
     },
     {
       "file": "H070_START.png",
@@ -2886,7 +2886,14 @@
     "mp4_browser_playback_seek_mobile": true,
     "all_preview_segments_current": true,
     "zip_crc": true,
-    "local_document_links": true
+    "local_document_links": true,
+    "anatomy_correction_archives_match": true,
+    "anatomy_changed_images": [
+      "H013_START.png",
+      "H013_END.png",
+      "H069_START.png",
+      "H069_END.png"
+    ]
   },
   "camera_source": "manifest.json",
   "camera_revised_images": 134,
@@ -3696,6 +3703,49 @@
       "previous_sha256": "186f4305cf36571f4279d4addfed28dddd73693d4b248ef5effc8b10e813b462",
       "sha256": "a6a79c61fb75d1a6e5f2c1b50af87cb2d26af29e5c8095713303aa01aac7fb97",
       "operation": "imagegen redraw"
+    },
+    {
+      "file": "H013_START.png",
+      "previous_sha256": "20fa866f8dfcc49660d17690498fb697b962d7e13026d8f450fd9e4a6ee1dbc9",
+      "sha256": "febc11879aebf638e8b87beab8a925c72de88a43d83247908c4abb0519d93789",
+      "operation": "imagegen focused anatomy correction",
+      "date": "2026-10-31"
+    },
+    {
+      "file": "H013_END.png",
+      "previous_sha256": "b1320422439b428197a25a84995e3911b93a2fbe5ce414185d8d2d51f5bc6405",
+      "sha256": "76ce29fe7a79511ffabf519b044c86efd9f598326307c21acde10b50ebcdc900",
+      "operation": "imagegen focused anatomy correction",
+      "date": "2026-10-31"
+    },
+    {
+      "file": "H069_START.png",
+      "previous_sha256": "da4da23bbf492b9e575224893ceb3e9bde8c9edeb2ad866e1dd81d32f8a4820b",
+      "sha256": "ca9994018b6e30948afd22e44984ace09a597b489b23acd370c0e317ff917715",
+      "operation": "imagegen focused anatomy correction",
+      "date": "2026-10-31"
+    },
+    {
+      "file": "H069_END.png",
+      "previous_sha256": "1d8bdb3982c9fe49d92a9e4d32e004225ac9a96b32364606084a252346de33da",
+      "sha256": "728d9809f3f11a7de53cfe314b6877ae8c856e6aa40c3263d06c8c80519ef8bb",
+      "operation": "imagegen focused anatomy correction",
+      "date": "2026-10-31"
     }
-  ]
+  ],
+  "anatomy_correction": {
+    "date": "2026-10-31",
+    "reviewed_images": 134,
+    "cuts": [
+      "H013",
+      "H069"
+    ],
+    "files": [
+      "H013_START.png",
+      "H013_END.png",
+      "H069_START.png",
+      "H069_END.png"
+    ],
+    "scope": "Clarify seated hip-knee-ankle chains for both adults; remove confusing folded-leg silhouette and clarify sock feet."
+  }
 }

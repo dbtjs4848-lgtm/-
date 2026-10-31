@@ -8,6 +8,8 @@
 
 [자세한 콘티](storyboard.md) · [플로바용 TXT](https://github.com/dbtjs4848-lgtm/-/raw/refs/heads/main/hobby-guarantee/production-v3/flova-cut-files.txt) · [플로바용 PDF](https://github.com/dbtjs4848-lgtm/-/raw/refs/heads/main/hobby-guarantee/production-v3/flova-cut-files.pdf) · [영상 생성 지시 TXT](https://github.com/dbtjs4848-lgtm/-/raw/refs/heads/main/hobby-guarantee/production-v3/motion-prompts.txt)
 
+**2026-10-31 인체 연결 수정:** H013·H069의 시작/종료 4장을 교체하고, 음원 미리보기와 해당 ZIP 묶음에 반영했습니다. [수정 이미지 보기](anatomy-fixes.md) · [수정 4장만 다운로드](https://github.com/dbtjs4848-lgtm/-/raw/refs/heads/main/hobby-guarantee/production-v3/anatomy-fixes.zip)
+
 ## 이미지 보기·다운로드
 
 - [01–10컷 시작·종료 보기](cuts-H001-H010.md) · [PNG 묶음 ZIP](https://github.com/dbtjs4848-lgtm/-/raw/refs/heads/main/hobby-guarantee/production-v3/images-part1-H001-H010.zip)
